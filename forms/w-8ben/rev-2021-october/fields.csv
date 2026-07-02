@@ -1,0 +1,24 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+w-8ben,topmostSubform[0].Page1[0].f_1[0],beneficial_owner_name,1,Text,1 Name of individual who is the beneficial owner,,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_2[0],p1_2_country_of_citizenship,1,Text,2 Country of citizenship,,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_3[0],permanent_residence_street,1,Text,"3 Permanent residence address (street, apt. or suite no., or rural route). Do not use a P.O. box or in-care-of address.",,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_4[0],permanent_residence_city_state_postal,1,Text,"City or town, state or province. Include postal code where appropriate.",,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_5[0],taxpayer_country,1,Text,Country,,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_6[0],p1_4_mailing_address_if_different_from_above,1,Text,4 Mailing address (if different from above),,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_7[0],permanent_residence_city_state_postal_2,1,Text,"City or town, state or province. Include postal code where appropriate.",,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_8[0],taxpayer_country_2,1,Text,Country,,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_9[0],p1_topmostsubform_0_page1_0_f_9_0,1,Text,,,,11,0,,,Center
+w-8ben,topmostSubform[0].Page1[0].f_10[0],p1_6a_foreign_tax_identifying_number,1,Text,6a Foreign tax identifying number (see instructions),,,,8388608,,,Center
+w-8ben,topmostSubform[0].Page1[0].c1_01[0],p1_topmostsubform_0_page1_0_c1_01_0,1,Button,,1,1|0,,0,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_11[0],p1_7_reference_number_s,1,Text,7 Reference number(s) (see instructions),,,,8388608,,,Center
+w-8ben,topmostSubform[0].Page1[0].f_12[0],p1_8_date_of_birth_mm_dd_yyyy,1,Text,8 Date of birth (MM-DD-YYYY) (see instructions),,,10,0,,,Center
+w-8ben,topmostSubform[0].Page1[0].f_13[0],p1_i_certify_that_the_beneficial_owner_is_a_resident_of,1,Text,I certify that the beneficial owner is a resident of,,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_14[0],p1_of,1,Text,of,,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_15[0],p1_the_treaty_identified_on_line_9_above_to_claim_a,1,Text,the treaty identified on line 9 above to claim a,,,,8388608,,,Right
+w-8ben,topmostSubform[0].Page1[0].f_16[0],p1_topmostsubform_0_page1_0_f_16_0,1,Text,.,,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_17[0],p1_explain_the_additional_conditions_in_the_article_and_paragraph_the_beneficial_owner_meets_to_be_eligible_for_the_rate_of_withholding,1,Text,Explain the additional conditions in the Article and paragraph the beneficial owner meets to be eligible for the rate of withholding:,,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_18[0],p1_topmostsubform_0_page1_0_f_18_0,1,Text,,,,,8388608,,,Left
+w-8ben,topmostSubform[0].Page1[0].c1_02[0],p1_topmostsubform_0_page1_0_c1_02_0,1,Button,,1,1|0,,0,,,Left
+w-8ben,topmostSubform[0].Page1[0].f_20[0],p1_signature_of_beneficial_owner_or_individual_authorized_to_sign_for_beneficial_owner,1,Signature,Signature of beneficial owner (or individual authorized to sign for beneficial owner),,,,0,,,Left
+w-8ben,topmostSubform[0].Page1[0].Date[0],p1_date_mm_dd_yyyy,1,Text,Date (MM-DD-YYYY),,,10,0,,,Center
+w-8ben,topmostSubform[0].Page1[0].f_21[0],p1_print_name_of_signer,1,Text,Print name of signer,,,,8388608,,,Left

@@ -1,0 +1,326 @@
+[
+  {
+    "form_id": "1040",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 199,
+    "renamed_field_count": 199,
+    "example_value_count": 22,
+    "path": "forms/1040/2025/verification.json"
+  },
+  {
+    "form_id": "1040-schedule-1",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 73,
+    "renamed_field_count": 73,
+    "example_value_count": 2,
+    "path": "forms/1040-schedule-1/2025/verification.json"
+  },
+  {
+    "form_id": "1040-schedule-2",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 63,
+    "renamed_field_count": 63,
+    "example_value_count": 2,
+    "path": "forms/1040-schedule-2/2025/verification.json"
+  },
+  {
+    "form_id": "1040-schedule-3",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 37,
+    "renamed_field_count": 37,
+    "example_value_count": 2,
+    "path": "forms/1040-schedule-3/2025/verification.json"
+  },
+  {
+    "form_id": "1040-schedule-a",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 33,
+    "renamed_field_count": 33,
+    "example_value_count": 2,
+    "path": "forms/1040-schedule-a/2025/verification.json"
+  },
+  {
+    "form_id": "1040-schedule-b",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 72,
+    "renamed_field_count": 72,
+    "example_value_count": 3,
+    "path": "forms/1040-schedule-b/2025/verification.json"
+  },
+  {
+    "form_id": "1040-schedule-c",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 105,
+    "renamed_field_count": 105,
+    "example_value_count": 7,
+    "path": "forms/1040-schedule-c/2025/verification.json"
+  },
+  {
+    "form_id": "1040-schedule-d",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 55,
+    "renamed_field_count": 55,
+    "example_value_count": 2,
+    "path": "forms/1040-schedule-d/2025/verification.json"
+  },
+  {
+    "form_id": "1040-schedule-e",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 185,
+    "renamed_field_count": 185,
+    "example_value_count": 3,
+    "path": "forms/1040-schedule-e/2025/verification.json"
+  },
+  {
+    "form_id": "1040-schedule-se",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 27,
+    "renamed_field_count": 27,
+    "example_value_count": 1,
+    "path": "forms/1040-schedule-se/2025/verification.json"
+  },
+  {
+    "form_id": "1042",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 134,
+    "renamed_field_count": 134,
+    "example_value_count": 17,
+    "path": "forms/1042/2025/verification.json"
+  },
+  {
+    "form_id": "1042-s",
+    "revision": "2026",
+    "status": "ok",
+    "field_count": 300,
+    "renamed_field_count": 300,
+    "example_value_count": 148,
+    "path": "forms/1042-s/2026/verification.json"
+  },
+  {
+    "form_id": "1042-t",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 19,
+    "renamed_field_count": 19,
+    "example_value_count": 6,
+    "path": "forms/1042-t/2025/verification.json"
+  },
+  {
+    "form_id": "2441",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 72,
+    "renamed_field_count": 72,
+    "example_value_count": 2,
+    "path": "forms/2441/2025/verification.json"
+  },
+  {
+    "form_id": "3520",
+    "revision": "rev-2023-december",
+    "status": "ok",
+    "field_count": 462,
+    "renamed_field_count": 462,
+    "example_value_count": 37,
+    "path": "forms/3520/rev-2023-december/verification.json"
+  },
+  {
+    "form_id": "4562",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 277,
+    "renamed_field_count": 277,
+    "example_value_count": 2,
+    "path": "forms/4562/2025/verification.json"
+  },
+  {
+    "form_id": "4868",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 17,
+    "renamed_field_count": 17,
+    "example_value_count": 8,
+    "path": "forms/4868/2025/verification.json"
+  },
+  {
+    "form_id": "5695",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 167,
+    "renamed_field_count": 167,
+    "example_value_count": 15,
+    "path": "forms/5695/2025/verification.json"
+  },
+  {
+    "form_id": "8233",
+    "revision": "rev-2018-september",
+    "status": "ok",
+    "field_count": 51,
+    "renamed_field_count": 51,
+    "example_value_count": 15,
+    "path": "forms/8233/rev-2018-september/verification.json"
+  },
+  {
+    "form_id": "8283",
+    "revision": "rev-2025-december",
+    "status": "ok",
+    "field_count": 117,
+    "renamed_field_count": 117,
+    "example_value_count": 13,
+    "path": "forms/8283/rev-2025-december/verification.json"
+  },
+  {
+    "form_id": "8804",
+    "revision": "rev-2025-december",
+    "status": "ok",
+    "field_count": 81,
+    "renamed_field_count": 81,
+    "example_value_count": 20,
+    "path": "forms/8804/rev-2025-december/verification.json"
+  },
+  {
+    "form_id": "8805",
+    "revision": "rev-2019-november",
+    "status": "ok",
+    "field_count": 100,
+    "renamed_field_count": 100,
+    "example_value_count": 40,
+    "path": "forms/8805/rev-2019-november/verification.json"
+  },
+  {
+    "form_id": "8812",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 41,
+    "renamed_field_count": 41,
+    "example_value_count": 2,
+    "path": "forms/8812/2025/verification.json"
+  },
+  {
+    "form_id": "8813",
+    "revision": "rev-2008-december",
+    "status": "ok",
+    "field_count": 9,
+    "renamed_field_count": 9,
+    "example_value_count": 1,
+    "path": "forms/8813/rev-2008-december/verification.json"
+  },
+  {
+    "form_id": "8829",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 58,
+    "renamed_field_count": 58,
+    "example_value_count": 2,
+    "path": "forms/8829/2025/verification.json"
+  },
+  {
+    "form_id": "8863",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 77,
+    "renamed_field_count": 77,
+    "example_value_count": 10,
+    "path": "forms/8863/2025/verification.json"
+  },
+  {
+    "form_id": "8889",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 27,
+    "renamed_field_count": 27,
+    "example_value_count": 1,
+    "path": "forms/8889/2025/verification.json"
+  },
+  {
+    "form_id": "8949",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 202,
+    "renamed_field_count": 202,
+    "example_value_count": 4,
+    "path": "forms/8949/2025/verification.json"
+  },
+  {
+    "form_id": "8962",
+    "revision": "2025",
+    "status": "ok",
+    "field_count": 141,
+    "renamed_field_count": 141,
+    "example_value_count": 6,
+    "path": "forms/8962/2025/verification.json"
+  },
+  {
+    "form_id": "w-4",
+    "revision": "2026",
+    "status": "ok",
+    "field_count": 48,
+    "renamed_field_count": 48,
+    "example_value_count": 6,
+    "path": "forms/w-4/2026/verification.json"
+  },
+  {
+    "form_id": "w-8ben",
+    "revision": "rev-2021-october",
+    "status": "ok",
+    "field_count": 23,
+    "renamed_field_count": 23,
+    "example_value_count": 9,
+    "path": "forms/w-8ben/rev-2021-october/verification.json"
+  },
+  {
+    "form_id": "w-8ben-e",
+    "revision": "rev-2021-october",
+    "status": "ok",
+    "field_count": 179,
+    "renamed_field_count": 179,
+    "example_value_count": 13,
+    "path": "forms/w-8ben-e/rev-2021-october/verification.json"
+  },
+  {
+    "form_id": "w-8eci",
+    "revision": "rev-2021-october",
+    "status": "ok",
+    "field_count": 36,
+    "renamed_field_count": 36,
+    "example_value_count": 1,
+    "path": "forms/w-8eci/rev-2021-october/verification.json"
+  },
+  {
+    "form_id": "w-8exp",
+    "revision": "rev-2023-october",
+    "status": "ok",
+    "field_count": 67,
+    "renamed_field_count": 67,
+    "example_value_count": 10,
+    "path": "forms/w-8exp/rev-2023-october/verification.json"
+  },
+  {
+    "form_id": "w-8imy",
+    "revision": "rev-2021-october",
+    "status": "ok",
+    "field_count": 148,
+    "renamed_field_count": 148,
+    "example_value_count": 14,
+    "path": "forms/w-8imy/rev-2021-october/verification.json"
+  },
+  {
+    "form_id": "w-9",
+    "revision": "rev-2024-march",
+    "status": "ok",
+    "field_count": 23,
+    "renamed_field_count": 23,
+    "example_value_count": 5,
+    "path": "forms/w-9/rev-2024-march/verification.json"
+  }
+]

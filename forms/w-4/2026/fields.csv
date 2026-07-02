@@ -1,0 +1,49 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+w-4,topmostSubform[0].Page1[0].Step1a[0].f1_01[0],p1_a_first_name_and_middle_initial,1,Text,(a) First name and middle initial,,,,8388608,,,Left
+w-4,topmostSubform[0].Page1[0].Step1a[0].f1_02[0],taxpayer_last_name,1,Text,Last name,,,,8388608,,,Left
+w-4,topmostSubform[0].Page1[0].Step1a[0].f1_03[0],p1_address,1,Text,Address,,,,8388608,,,Left
+w-4,topmostSubform[0].Page1[0].Step1a[0].f1_04[0],p1_city_or_town_state_and_zip_code,1,Text,"City or town, state, and ZIP code",,,,8388608,,,Left
+w-4,topmostSubform[0].Page1[0].f1_05[0],p1_b_social_security_number,1,Text,(b) Social security number,,,11,0,,,Center
+w-4,topmostSubform[0].Page1[0].c1_1[0],single_or_married_filing_separately,1,Button,Single or Married filing separately,1,1|0,,0,,,Left
+w-4,topmostSubform[0].Page1[0].c1_1[1],married_filing_jointly_or_qualifying_surviving_spouse,1,Button,Married filing jointly or Qualifying surviving spouse,2,2|0,,0,,,Left
+w-4,topmostSubform[0].Page1[0].c1_1[2],head_of_household_check_only_if_youre_unmarried_and_pay_more_than_half_the_costs_of_keeping_up_a_home_for_yourself_and_a_qualifying_individual,1,Button,Head of household (Check only if you’re unmarried and pay more than half the costs of keeping up a home for yourself and a qualifying individual.),3,3|0,,0,,,Left
+w-4,topmostSubform[0].Page1[0].c1_2[0],p1_topmostsubform_0_page1_0_c1_2_0,1,Button,,1,1|0,,0,,,Left
+w-4,topmostSubform[0].Page1[0].Step3_ReadOrder[0].f1_06[0],p1_topmostsubform_0_page1_0_step3_readorder_0_f1_06_0,1,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page1[0].Step3_ReadOrder[0].f1_07[0],p1_topmostsubform_0_page1_0_step3_readorder_0_f1_07_0,1,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page1[0].f1_08[0],p1_topmostsubform_0_page1_0_f1_08_0,1,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page1[0].f1_09[0],p1_topmostsubform_0_page1_0_f1_09_0,1,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page1[0].f1_10[0],p1_topmostsubform_0_page1_0_f1_10_0,1,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page1[0].f1_11[0],p1_topmostsubform_0_page1_0_f1_11_0,1,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page1[0].c1_3[0],p1_topmostsubform_0_page1_0_c1_3_0,1,Button,,1,1|0,,0,,,Left
+w-4,topmostSubform[0].Page1[0].f1_12[0],p1_employers_name_and_address,1,Text,Employer’s name and address,,,,8392704,,,Left
+w-4,topmostSubform[0].Page1[0].f1_13[0],p1_first_date_ofemployment,1,Text,First date ofemployment,,,,8388608,,,Center
+w-4,topmostSubform[0].Page1[0].f1_14[0],p1_employer_identification_number_ein,1,Text,Employer identification number (EIN),,,10,0,,,Center
+w-4,topmostSubform[0].Page3[0].f3_01[0],p3_topmostsubform_0_page3_0_f3_01_0,3,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page3[0].f3_02[0],p3_topmostsubform_0_page3_0_f3_02_0,3,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page3[0].f3_03[0],p3_topmostsubform_0_page3_0_f3_03_0,3,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page3[0].f3_04[0],p3_topmostsubform_0_page3_0_f3_04_0,3,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page3[0].f3_05[0],p3_topmostsubform_0_page3_0_f3_05_0,3,Text,,,,,8388608,,,Center
+w-4,topmostSubform[0].Page3[0].f3_06[0],p3_topmostsubform_0_page3_0_f3_06_0,3,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_01[0],p4_topmostsubform_0_page4_0_f4_01_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_02[0],p4_topmostsubform_0_page4_0_f4_02_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_03[0],p4_topmostsubform_0_page4_0_f4_03_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_04[0],p4_topmostsubform_0_page4_0_f4_04_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_05[0],p4_topmostsubform_0_page4_0_f4_05_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_06[0],p4_topmostsubform_0_page4_0_f4_06_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_07[0],p4_topmostsubform_0_page4_0_f4_07_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_08[0],p4_topmostsubform_0_page4_0_f4_08_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_09[0],p4_topmostsubform_0_page4_0_f4_09_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_10[0],p4_topmostsubform_0_page4_0_f4_10_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_11[0],p4_topmostsubform_0_page4_0_f4_11_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_12[0],p4_topmostsubform_0_page4_0_f4_12_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_13[0],p4_topmostsubform_0_page4_0_f4_13_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_14[0],p4_topmostsubform_0_page4_0_f4_14_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_15[0],p4_topmostsubform_0_page4_0_f4_15_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_16[0],p4_topmostsubform_0_page4_0_f4_16_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_17[0],p4_topmostsubform_0_page4_0_f4_17_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_18[0],p4_topmostsubform_0_page4_0_f4_18_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_19[0],p4_topmostsubform_0_page4_0_f4_19_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_20[0],p4_topmostsubform_0_page4_0_f4_20_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_21[0],p4_topmostsubform_0_page4_0_f4_21_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_22[0],p4_topmostsubform_0_page4_0_f4_22_0,4,Text,$,,,,8388608,,,Right
+w-4,topmostSubform[0].Page4[0].f4_23[0],p4_topmostsubform_0_page4_0_f4_23_0,4,Text,$,,,,8388608,,,Right

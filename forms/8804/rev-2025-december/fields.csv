@@ -1,0 +1,82 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+8804,topmostSubform[0].Page1[0].f1_01[0],p1_for_calendar_year_20,1,Text,For calendar year 20,,,2,0,,,Center
+8804,topmostSubform[0].Page1[0].f1_02[0],p1_or_tax_year_beginning,1,Text,", or tax year beginning",,,,8388608,,,Center
+8804,topmostSubform[0].Page1[0].f1_03[0],p1_20,1,Text,", 20",,,2,0,,,Center
+8804,topmostSubform[0].Page1[0].f1_04[0],p1_and_ending,1,Text,", and ending",,,,8388608,,,Center
+8804,topmostSubform[0].Page1[0].f1_05[0],p1_20_2,1,Text,", 20",,,2,0,,,Center
+8804,topmostSubform[0].Page1[0].c1_1[0],p1_topmostsubform_0_page1_0_c1_1_0,1,Button,,1,1|0,,0,,,Left
+8804,topmostSubform[0].Page1[0].Line1[0].f1_06[0],p1_1a_name_of_partnership,1,Text,1a Name of partnership,,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].Line1[0].f1_07[0],p1_b_u_s_employer_identification_number_ein,1,Text,b U.S. employer identification number (EIN),,,10,0,,,Center
+8804,topmostSubform[0].Page1[0].Line1[0].f1_08[0],p1_c_number_and_street_if_a_p_o_box,1,Text,"c Number and street. If a P.O. box, see instructions.",,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].Line1[0].f1_09[0],p1_d_room_or_suite_no,1,Text,d Room or suite no.,,,,8388608,,,Center
+8804,topmostSubform[0].Page1[0].Line1[0].f1_10[0],p1_e_city_or_town,1,Text,e City or town,,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].Line1[0].f1_11[0],p1_f_state_or_province,1,Text,f State or province,,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].Line1[0].f1_12[0],p1_g_country,1,Text,g Country,,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].Line1[0].f1_13[0],taxpayer_postal_code,1,Text,h ZIP or foreign postal code,,,,8388608,,,Center
+8804,topmostSubform[0].Page1[0].f1_14[0],withholding_agent_name,1,Text,"2a Name of withholding agent. If partnership is also the withholding agent, enter “SAME” and don’t complete lines 2b through 2h.",,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].f1_15[0],p1_b_withholding_agents_u_s_ein,1,Text,b Withholding agent’s U.S. EIN,,,10,0,,,Center
+8804,topmostSubform[0].Page1[0].f1_16[0],p1_c_number_and_street_if_a_p_o_box_2,1,Text,"c Number and street. If a P.O. box, see instructions.",,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].f1_17[0],p1_d_room_or_suite_no_2,1,Text,d Room or suite no.,,,,8388608,,,Center
+8804,topmostSubform[0].Page1[0].f1_18[0],p1_e_city_or_town_2,1,Text,e City or town,,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].f1_19[0],p1_f_state_or_province_2,1,Text,f State or province,,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].f1_20[0],p1_g_country_2,1,Text,g Country,,,,8388608,,,Left
+8804,topmostSubform[0].Page1[0].f1_21[0],taxpayer_postal_code_2,1,Text,h ZIP or foreign postal code,,,,8388608,,,Center
+8804,topmostSubform[0].Page1[0].f1_22[0],p1_topmostsubform_0_page1_0_f1_22_0,1,Text,,,,,8388608,,,Center
+8804,topmostSubform[0].Page1[0].f1_23[0],p1_topmostsubform_0_page1_0_f1_23_0,1,Text,,,,,8388608,,,Center
+8804,topmostSubform[0].Page1[0].f1_24[0],p1_topmostsubform_0_page1_0_f1_24_0,1,Text,,,,,8388608,,,Center
+8804,topmostSubform[0].Page1[0].f1_25[0],p1_topmostsubform_0_page1_0_f1_25_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_26[0],p1_topmostsubform_0_page1_0_f1_26_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_27[0],p1_topmostsubform_0_page1_0_f1_27_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_28[0],p1_topmostsubform_0_page1_0_f1_28_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].Line4e_ReadOrder[0].f1_29[0],p1_topmostsubform_0_page1_0_line4e_readorder_0_f1_29_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_30[0],p1_topmostsubform_0_page1_0_f1_30_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_31[0],p1_topmostsubform_0_page1_0_f1_31_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_32[0],p1_topmostsubform_0_page1_0_f1_32_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_33[0],p1_topmostsubform_0_page1_0_f1_33_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_34[0],p1_topmostsubform_0_page1_0_f1_34_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_35[0],p1_topmostsubform_0_page1_0_f1_35_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_36[0],p1_topmostsubform_0_page1_0_f1_36_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_37[0],p1_topmostsubform_0_page1_0_f1_37_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_38[0],p1_topmostsubform_0_page1_0_f1_38_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_39[0],p1_topmostsubform_0_page1_0_f1_39_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page1[0].f1_40[0],p1_topmostsubform_0_page1_0_f1_40_0,1,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].Line4q_ReadOrder[0].f2_1[0],p2_topmostsubform_0_page2_0_line4q_readorder_0_f2_1_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_2[0],p2_topmostsubform_0_page2_0_f2_2_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_3[0],p2_topmostsubform_0_page2_0_f2_3_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_4[0],p2_topmostsubform_0_page2_0_f2_4_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].Line_5a_ReadOrder[0].f2_5[0],p2_topmostsubform_0_page2_0_line_5a_readorder_0_f2_5_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_6[0],p2_topmostsubform_0_page2_0_f2_6_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_7[0],p2_topmostsubform_0_page2_0_f2_7_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_8[0],p2_topmostsubform_0_page2_0_f2_8_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_9[0],p2_topmostsubform_0_page2_0_f2_9_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_10[0],p2_topmostsubform_0_page2_0_f2_10_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].Line6a_ReadOrder[0].f2_11[0],p2_topmostsubform_0_page2_0_line6a_readorder_0_f2_11_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_12[0],p2_topmostsubform_0_page2_0_f2_12_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_13[0],p2_topmostsubform_0_page2_0_f2_13_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_14[0],p2_topmostsubform_0_page2_0_f2_14_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_15[0],p2_topmostsubform_0_page2_0_f2_15_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_16[0],p2_topmostsubform_0_page2_0_f2_16_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_17[0],p2_topmostsubform_0_page2_0_f2_17_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_18[0],p2_topmostsubform_0_page2_0_f2_18_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].c2_1[0],p2_topmostsubform_0_page2_0_c2_1_0,2,Button,,1,1|0,,0,,,Left
+8804,topmostSubform[0].Page2[0].f2_19[0],p2_topmostsubform_0_page2_0_f2_19_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_20[0],p2_topmostsubform_0_page2_0_f2_20_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_21[0],p2_topmostsubform_0_page2_0_f2_21_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_22[0],p2_topmostsubform_0_page2_0_f2_22_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_23[0],p2_topmostsubform_0_page2_0_f2_23_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_24[0],p2_topmostsubform_0_page2_0_f2_24_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_25[0],p2_topmostsubform_0_page2_0_f2_25_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].Routing_Number[0].f2_26[0],p2_topmostsubform_0_page2_0_routing_number_0_f2_26_0,2,Text,,,,9,25165824,,,Left
+8804,topmostSubform[0].Page2[0].c2_2[0],checking,2,Button,Checking,1,1|0,,0,,,Left
+8804,topmostSubform[0].Page2[0].c2_2[1],savings,2,Button,Savings,2,2|0,,0,,,Left
+8804,topmostSubform[0].Page2[0].AcctNumber[0].f2_27[0],p2_topmostsubform_0_page2_0_acctnumber_0_f2_27_0,2,Text,,,,17,25165824,,,Left
+8804,topmostSubform[0].Page2[0].Line15_ReadOrder[0].f2_28[0],p2_topmostsubform_0_page2_0_line15_readorder_0_f2_28_0,2,Text,,,,,8388608,,,Right
+8804,topmostSubform[0].Page2[0].f2_29[0],p2_title,2,Text,Title,,,,8388608,,,Left
+8804,topmostSubform[0].Page2[0].f2_30[0],p2_date,2,Text,Date,,,,8388608,,,Center
+8804,topmostSubform[0].Page2[0].f2_31[0],p2_preparers_name,2,Text,Preparer’s name,,,,8388608,,,Left
+8804,topmostSubform[0].Page2[0].c2_3[0],p2_topmostsubform_0_page2_0_c2_3_0,2,Button,,Yes,Yes,,0,,,Left
+8804,topmostSubform[0].Page2[0].f2_32[0],p2_ptin,2,Text,PTIN,,,11,0,,,Center
+8804,topmostSubform[0].Page2[0].f2_33[0],p2_firms_name,2,Text,Firm’s name,,,,8388608,,,Left
+8804,topmostSubform[0].Page2[0].f2_34[0],p2_firms_address,2,Text,Firm’s address,,,,8388608,,,Left
+8804,topmostSubform[0].Page2[0].f2_35[0],p2_firms_ein,2,Text,Firm’s EIN,,,10,0,,,Center
+8804,topmostSubform[0].Page2[0].f2_36[0],p2_phone_no,2,Text,Phone no.,,,,8388608,,,Center

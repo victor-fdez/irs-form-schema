@@ -1,0 +1,15 @@
+{
+  "form_id": "3520",
+  "revision": "rev-2023-december",
+  "field_count": 462,
+  "renamed_field_count": 462,
+  "example_value_count": 37,
+  "missing_renamed_fields": [],
+  "example_value_mismatches": {},
+  "pdftotext_sample_found": true,
+  "pdftotext_error": "",
+  "renamed_pdf": "forms/3520/rev-2023-december/renamed.pdf",
+  "example_pdf": "forms/3520/rev-2023-december/example_name_address.pdf",
+  "page1_png": "forms/3520/rev-2023-december/example_page1.png",
+  "status": "ok"
+}

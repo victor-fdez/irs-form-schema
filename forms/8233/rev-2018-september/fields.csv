@@ -1,0 +1,52 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+8233,topmostSubform[0].Page1[0].f1_1[0],p1_this_exemption_is_applicable_for_compensation_for_calendar_year,1,Text,This exemption is applicable for compensation for calendar year,,,4,0,,,Center
+8233,topmostSubform[0].Page1[0].f1_2[0],p1_or_other_tax_year_beginning,1,Text,", or other tax year beginning",,,,8388608,,,Center
+8233,topmostSubform[0].Page1[0].f1_3[0],p1_and_ending,1,Text,and ending,,,,8388608,,,Center
+8233,topmostSubform[0].Page1[0].f1_4[0],beneficial_owner_name,1,Text,1 Name of individual who is the beneficial owner,,,,8388608,,,Left
+8233,topmostSubform[0].Page1[0].f1_5[0],taxpayer_tin,1,Text,2 U.S. taxpayer identification number,,,11,0,,,Center
+8233,topmostSubform[0].Page1[0].f1_6[0],p1_3_foreign_tax_identification_number,1,Text,"3 Foreign tax identification number, if any",,,,8388608,,,Center
+8233,topmostSubform[0].Page1[0].f1_7[0],permanent_residence_street,1,Text,"4 Permanent residence address (street, apt. or suite no., or rural route). Do not use a P.O. box.",,,,8388608,,,Left
+8233,topmostSubform[0].Page1[0].f1_8[0],permanent_residence_city_state_postal,1,Text,"City or town, state or province. Include postal code where appropriate.",,,,8388608,,,Left
+8233,topmostSubform[0].Page1[0].f1_9[0],p1_country_do_not_abbreviate,1,Text,Country (do not abbreviate),,,,8388608,,,Left
+8233,topmostSubform[0].Page1[0].f1_10[0],p1_5_address_in_the_united_states_street_apt_or_suite_no_or_rural_route_do_not_use_a_p_o_box,1,Text,"5 Address in the United States (street, apt. or suite no., or rural route). Do not use a P.O. box.",,,,8388608,,,Left
+8233,topmostSubform[0].Page1[0].f1_11[0],p1_city_or_town_state_and_zip_code,1,Text,"City or town, state, and ZIP code",,,,8388608,,,Left
+8233,topmostSubform[0].Page1[0].f1_12[0],p1_6_u_s_visa_type,1,Text,6 U.S. visa type,,,,8388608,,,Left
+8233,topmostSubform[0].Page1[0].f1_13[0],p1_7a_country_issuing_passport,1,Text,7a Country issuing passport,,,,8388608,,,Left
+8233,topmostSubform[0].Page1[0].f1_14[0],p1_7b_passport_number,1,Text,7b Passport number,,,,8388608,,,Center
+8233,topmostSubform[0].Page1[0].f1_15[0],p1_8_date_of_entry_into_the_united_states,1,Text,8 Date of entry into the United States,,,,8388608,,,Center
+8233,topmostSubform[0].Page1[0].f1_16[0],p1_9a_current_nonimmigrant_status,1,Text,9a Current nonimmigrant status,,,,8388608,,,Left
+8233,topmostSubform[0].Page1[0].f1_17[0],p1_9b_date_your_current_nonimmigrant_status_expires,1,Text,9b Date your current nonimmigrant status expires,,,,8388608,,,Center
+8233,topmostSubform[0].Page1[0].c1_1[0],if_you_are_a_foreign_student_trainee_professor_teacher_or_researcher_check_this_box,1,Button,"If you are a foreign student, trainee, professor/teacher, or researcher, check this box ▶",Yes,Yes|Off,,0,,,Left
+8233,topmostSubform[0].Page2[0].f2_1[0],p2_description_of_personal_services_you_are_providing,2,Text,Description of personal services you are providing,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_2[0],p2_topmostsubform_0_page2_0_f2_2_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_3[0],p2_topmostsubform_0_page2_0_f2_3_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_4[0],p2_total_compensation_you_expect_to_be_paid_for_these_services_in_this_calendar_or_tax_year,2,Text,Total compensation you expect to be paid for these services in this calendar or tax year $,,,,8388608,,,Right
+8233,topmostSubform[0].Page2[0].f2_5[0],p2_tax_treaty_on_which_you_are_basing_exemption_from_withholding,2,Text,Tax treaty on which you are basing exemption from withholding,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_6[0],p2_treaty_article_on_which_you_are_basing_exemption_from_withholding,2,Text,Treaty article on which you are basing exemption from withholding,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_7[0],p2_total_compensation_listed_on_line_11b_above_that_is_exempt_from_tax_under_this_treaty,2,Text,Total compensation listed on line 11b above that is exempt from tax under this treaty $,,,,8388608,,,Right
+8233,topmostSubform[0].Page2[0].f2_8[0],p2_country_of_residence,2,Text,Country of residence,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_9[0],p2_amount,2,Text,Amount $,,,,8388608,,,Right
+8233,topmostSubform[0].Page2[0].f2_10[0],p2_tax_treaty_on_which_you_are_basing_exemption_from_withholding_2,2,Text,Tax treaty on which you are basing exemption from withholding,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_11[0],p2_treaty_article_on_which_you_are_basing_exemption_from_withholding_2,2,Text,Treaty article on which you are basing exemption from withholding,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_12[0],p2_total_income_listed_on_line_13a_above_that_is_exempt_from_tax_under_this_treaty,2,Text,Total income listed on line 13a above that is exempt from tax under this treaty $,,,,8388608,,,Right
+8233,topmostSubform[0].Page2[0].f2_13[0],p2_sufficient_facts_to_justify_the_exemption_from_withholding_claimed_on_line_12_and_or_line_13,2,Text,Sufficient facts to justify the exemption from withholding claimed on line 12 and/or line 13 (see instructions),,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_14[0],p2_topmostsubform_0_page2_0_f2_14_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_15[0],p2_topmostsubform_0_page2_0_f2_15_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_16[0],p2_topmostsubform_0_page2_0_f2_16_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_17[0],p2_topmostsubform_0_page2_0_f2_17_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_18[0],p2_topmostsubform_0_page2_0_f2_18_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_19[0],p2_topmostsubform_0_page2_0_f2_19_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_20[0],p2_topmostsubform_0_page2_0_f2_20_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_21[0],p2_topmostsubform_0_page2_0_f2_21_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_22[0],p2_topmostsubform_0_page2_0_f2_22_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_23[0],p2_topmostsubform_0_page2_0_f2_23_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_24[0],p2_topmostsubform_0_page2_0_f2_24_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_25[0],p2_topmostsubform_0_page2_0_f2_25_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_26[0],p2_topmostsubform_0_page2_0_f2_26_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_27[0],p2_topmostsubform_0_page2_0_f2_27_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_28[0],p2_topmostsubform_0_page2_0_f2_28_0,2,Text,,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_29[0],p2_name,2,Text,Name,,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_30[0],p2_employer_identification_number,2,Text,Employer identification number,,,10,0,,,Center
+8233,topmostSubform[0].Page2[0].f2_31[0],p2_address_number_and_street_include_apt_or_suite_no_or_p_o_box_if_applicable,2,Text,"Address (number and street) (Include apt. or suite no. or P.O. box, if applicable.)",,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_32[0],p2_city_state_and_zip_code,2,Text,"City, state, and ZIP code",,,,8388608,,,Left
+8233,topmostSubform[0].Page2[0].f2_33[0],p2_telephone_number,2,Text,Telephone number,,,,8388608,,,Center

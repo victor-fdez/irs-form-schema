@@ -1,0 +1,101 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+8805,topmostSubform[0].CopyA[0].f1_01[0],px_for_partnerships_calendar_year,,Text,For partnership’s calendar year,,,4,0,,,Center
+8805,topmostSubform[0].CopyA[0].f1_02[0],px_or_tax_year_beginning,,Text,", or tax year beginning",,,,8388608,,,Center
+8805,topmostSubform[0].CopyA[0].f1_03[0],px_20,,Text,", 20",,,2,0,,,Center
+8805,topmostSubform[0].CopyA[0].f1_04[0],px_and_ending,,Text,", and ending",,,,8388608,,,Center
+8805,topmostSubform[0].CopyA[0].f1_05[0],px_20_2,,Text,", 20",,,2,0,,,Center
+8805,topmostSubform[0].CopyA[0].Lines1-4[0].f1_06[0],px_1a_foreign_partners_name,,Text,1a Foreign partner’s name,,,,8388608,,,Left
+8805,topmostSubform[0].CopyA[0].Lines1-4[0].f1_07[0],px_b_u_s_identifying_number,,Text,b U.S. identifying number,,,,8388608,,,Center
+8805,topmostSubform[0].CopyA[0].Lines1-4[0].f1_08[0],px_c_address_if_a_foreign_address,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyA[0].Lines1-4[0].f1_09[0],px_2_account_number_assigned_by_partnership,,Text,2 Account number assigned by partnership (if any),,,,8388608,,,Center
+8805,topmostSubform[0].CopyA[0].Lines1-4[0].f1_10[0],px_3_type_of_partner_specifysee_instructions,,Text,3 Type of partner (specify—see instructions) ▶,,,,8388608,,,Left
+8805,topmostSubform[0].CopyA[0].Lines1-4[0].f1_11[0],px_4_country_code_of_partner_enter_two_letter_codesee_instructions,,Text,4 Country code of partner (enter two-letter code—see instructions),,,2,0,,,Center
+8805,topmostSubform[0].CopyA[0].f1_12[0],px_5a_name_of_partnership,,Text,5a Name of partnership,,,,8388608,,,Left
+8805,topmostSubform[0].CopyA[0].f1_13[0],px_b_u_s_employer_identification_number_ein,,Text,b U.S. Employer Identification Number (EIN),,,10,0,,,Center
+8805,topmostSubform[0].CopyA[0].f1_14[0],px_c_address_if_a_foreign_address_2,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyA[0].f1_15[0],px_6_withholding_agents_name_if_partnership_is_also_the_withholding_agent_enter_same_and_do_not_complete_line_7,,Text,"6 Withholding agent’s name. If partnership is also the withholding agent, enter “SAME” and do not complete line 7.",,,,8388608,,,Left
+8805,topmostSubform[0].CopyA[0].f1_16[0],px_7_withholding_agents_u_s_ein,,Text,7 Withholding agent’s U.S. EIN,,,10,0,,,Center
+8805,topmostSubform[0].CopyA[0].c1_1[0],px_topmostsubform_0_copya_0_c1_1_0,,Button,,1,1|0|2,,0,,,Left
+8805,topmostSubform[0].CopyA[0].c1_2[0],px_topmostsubform_0_copya_0_c1_2_0,,Button,,1,1|0|2,,0,,,Left
+8805,topmostSubform[0].CopyA[0].f1_17[0],px_topmostsubform_0_copya_0_f1_17_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyA[0].f1_18[0],px_topmostsubform_0_copya_0_f1_18_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyA[0].Line11_ReadOrder[0].f1_19[0],px_11a_name_of_beneficiary,,Text,11a Name of beneficiary,,,,8388608,,,Left
+8805,topmostSubform[0].CopyA[0].Line11_ReadOrder[0].f1_20[0],px_b_u_s_identifying_number_of_beneficiary,,Text,b U.S. identifying number of beneficiary,,,,8388608,,,Center
+8805,topmostSubform[0].CopyA[0].f1_21[0],px_c_address_if_a_foreign_address_3,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyA[0].f1_22[0],px_topmostsubform_0_copya_0_f1_22_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyA[0].f1_23[0],px_topmostsubform_0_copya_0_f1_23_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyB[0].f1_01[0],px_for_partnerships_calendar_year_2,,Text,For partnership’s calendar year,,,4,0,,,Center
+8805,topmostSubform[0].CopyB[0].f1_02[0],px_or_tax_year_beginning_2,,Text,", or tax year beginning",,,,8388608,,,Center
+8805,topmostSubform[0].CopyB[0].f1_03[0],px_20_3,,Text,", 20",,,2,0,,,Center
+8805,topmostSubform[0].CopyB[0].f1_04[0],px_and_ending_2,,Text,", and ending",,,,8388608,,,Center
+8805,topmostSubform[0].CopyB[0].f1_05[0],px_20_4,,Text,", 20",,,2,0,,,Center
+8805,topmostSubform[0].CopyB[0].Lines1-4[0].f1_06[0],px_1a_foreign_partners_name_2,,Text,1a Foreign partner’s name,,,,8388608,,,Left
+8805,topmostSubform[0].CopyB[0].Lines1-4[0].f1_07[0],px_b_u_s_identifying_number_2,,Text,b U.S. identifying number,,,,8388608,,,Center
+8805,topmostSubform[0].CopyB[0].Lines1-4[0].f1_08[0],px_c_address_if_a_foreign_address_4,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyB[0].Lines1-4[0].f1_09[0],px_2_account_number_assigned_by_partnership_2,,Text,2 Account number assigned by partnership (if any),,,,8388608,,,Center
+8805,topmostSubform[0].CopyB[0].Lines1-4[0].f1_10[0],px_3_type_of_partner_specifysee_instructions_2,,Text,3 Type of partner (specify—see instructions) ▶,,,,8388608,,,Left
+8805,topmostSubform[0].CopyB[0].Lines1-4[0].f1_11[0],px_4_country_code_of_partner_enter_two_letter_codesee_instructions_2,,Text,4 Country code of partner (enter two-letter code—see instructions),,,2,0,,,Center
+8805,topmostSubform[0].CopyB[0].f1_12[0],px_5a_name_of_partnership_2,,Text,5a Name of partnership,,,,8388608,,,Left
+8805,topmostSubform[0].CopyB[0].f1_13[0],px_b_u_s_employer_identification_number_ein_2,,Text,b U.S. Employer Identification Number (EIN),,,10,0,,,Center
+8805,topmostSubform[0].CopyB[0].f1_14[0],px_c_address_if_a_foreign_address_5,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyB[0].f1_15[0],px_6_withholding_agents_name_if_partnership_is_also_the_withholding_agent_enter_same_and_do_not_complete_line_7_2,,Text,"6 Withholding agent’s name. If partnership is also the withholding agent, enter “SAME” and do not complete line 7.",,,,8388608,,,Left
+8805,topmostSubform[0].CopyB[0].f1_16[0],px_7_withholding_agents_u_s_ein_2,,Text,7 Withholding agent’s U.S. EIN,,,10,0,,,Center
+8805,topmostSubform[0].CopyB[0].c1_1[0],px_topmostsubform_0_copyb_0_c1_1_0,,Button,,1,1|0|2,,0,,,Left
+8805,topmostSubform[0].CopyB[0].c1_2[0],px_topmostsubform_0_copyb_0_c1_2_0,,Button,,1,1|0|2,,0,,,Left
+8805,topmostSubform[0].CopyB[0].f1_17[0],px_topmostsubform_0_copyb_0_f1_17_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyB[0].f1_18[0],px_topmostsubform_0_copyb_0_f1_18_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyB[0].Line11_ReadOrder[0].f1_19[0],px_11a_name_of_beneficiary_2,,Text,11a Name of beneficiary,,,,8388608,,,Left
+8805,topmostSubform[0].CopyB[0].Line11_ReadOrder[0].f1_20[0],px_b_u_s_identifying_number_of_beneficiary_2,,Text,b U.S. identifying number of beneficiary,,,,8388608,,,Center
+8805,topmostSubform[0].CopyB[0].f1_21[0],px_c_address_if_a_foreign_address_6,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyB[0].f1_22[0],px_topmostsubform_0_copyb_0_f1_22_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyB[0].f1_23[0],px_topmostsubform_0_copyb_0_f1_23_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyC[0].f1_01[0],px_for_partnerships_calendar_year_3,,Text,For partnership’s calendar year,,,4,0,,,Center
+8805,topmostSubform[0].CopyC[0].f1_02[0],px_or_tax_year_beginning_3,,Text,", or tax year beginning",,,,8388608,,,Center
+8805,topmostSubform[0].CopyC[0].f1_03[0],px_20_5,,Text,", 20",,,2,0,,,Center
+8805,topmostSubform[0].CopyC[0].f1_04[0],px_and_ending_3,,Text,", and ending",,,,8388608,,,Center
+8805,topmostSubform[0].CopyC[0].f1_05[0],px_20_6,,Text,", 20",,,2,0,,,Center
+8805,topmostSubform[0].CopyC[0].Lines1-4[0].f1_06[0],px_1a_foreign_partners_name_3,,Text,1a Foreign partner’s name,,,,8388608,,,Left
+8805,topmostSubform[0].CopyC[0].Lines1-4[0].f1_07[0],px_b_u_s_identifying_number_3,,Text,b U.S. identifying number,,,,8388608,,,Center
+8805,topmostSubform[0].CopyC[0].Lines1-4[0].f1_08[0],px_c_address_if_a_foreign_address_7,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyC[0].Lines1-4[0].f1_09[0],px_2_account_number_assigned_by_partnership_3,,Text,2 Account number assigned by partnership (if any),,,,8388608,,,Center
+8805,topmostSubform[0].CopyC[0].Lines1-4[0].f1_10[0],px_3_type_of_partner_specifysee_instructions_3,,Text,3 Type of partner (specify—see instructions) ▶,,,,8388608,,,Left
+8805,topmostSubform[0].CopyC[0].Lines1-4[0].f1_11[0],px_4_country_code_of_partner_enter_two_letter_codesee_instructions_3,,Text,4 Country code of partner (enter two-letter code—see instructions),,,2,0,,,Center
+8805,topmostSubform[0].CopyC[0].f1_12[0],px_5a_name_of_partnership_3,,Text,5a Name of partnership,,,,8388608,,,Left
+8805,topmostSubform[0].CopyC[0].f1_13[0],px_b_u_s_employer_identification_number_ein_3,,Text,b U.S. Employer Identification Number (EIN),,,10,0,,,Center
+8805,topmostSubform[0].CopyC[0].f1_14[0],px_c_address_if_a_foreign_address_8,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyC[0].f1_15[0],px_6_withholding_agents_name_if_partnership_is_also_the_withholding_agent_enter_same_and_do_not_complete_line_7_3,,Text,"6 Withholding agent’s name. If partnership is also the withholding agent, enter “SAME” and do not complete line 7.",,,,8388608,,,Left
+8805,topmostSubform[0].CopyC[0].f1_16[0],px_7_withholding_agents_u_s_ein_3,,Text,7 Withholding agent’s U.S. EIN,,,10,0,,,Center
+8805,topmostSubform[0].CopyC[0].c1_1[0],px_topmostsubform_0_copyc_0_c1_1_0,,Button,,1,1|0|2,,0,,,Left
+8805,topmostSubform[0].CopyC[0].c1_2[0],px_topmostsubform_0_copyc_0_c1_2_0,,Button,,1,1|0|2,,0,,,Left
+8805,topmostSubform[0].CopyC[0].f1_17[0],px_topmostsubform_0_copyc_0_f1_17_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyC[0].f1_18[0],px_topmostsubform_0_copyc_0_f1_18_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyC[0].Line11_ReadOrder[0].f1_19[0],px_11a_name_of_beneficiary_3,,Text,11a Name of beneficiary,,,,8388608,,,Left
+8805,topmostSubform[0].CopyC[0].Line11_ReadOrder[0].f1_20[0],px_b_u_s_identifying_number_of_beneficiary_3,,Text,b U.S. identifying number of beneficiary,,,,8388608,,,Center
+8805,topmostSubform[0].CopyC[0].f1_21[0],px_c_address_if_a_foreign_address_9,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyC[0].f1_22[0],px_topmostsubform_0_copyc_0_f1_22_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyC[0].f1_23[0],px_topmostsubform_0_copyc_0_f1_23_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyD[0].f1_01[0],px_for_partnerships_calendar_year_4,,Text,For partnership’s calendar year,,,4,0,,,Center
+8805,topmostSubform[0].CopyD[0].f1_02[0],px_or_tax_year_beginning_4,,Text,", or tax year beginning",,,,8388608,,,Center
+8805,topmostSubform[0].CopyD[0].f1_03[0],px_20_7,,Text,", 20",,,2,0,,,Center
+8805,topmostSubform[0].CopyD[0].f1_04[0],px_and_ending_4,,Text,", and ending",,,,8388608,,,Center
+8805,topmostSubform[0].CopyD[0].f1_05[0],px_20_8,,Text,", 20",,,2,0,,,Center
+8805,topmostSubform[0].CopyD[0].Lines1-4[0].f1_06[0],px_1a_foreign_partners_name_4,,Text,1a Foreign partner’s name,,,,8388608,,,Left
+8805,topmostSubform[0].CopyD[0].Lines1-4[0].f1_07[0],px_b_u_s_identifying_number_4,,Text,b U.S. identifying number,,,,8388608,,,Center
+8805,topmostSubform[0].CopyD[0].Lines1-4[0].f1_08[0],px_c_address_if_a_foreign_address_10,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyD[0].Lines1-4[0].f1_09[0],px_2_account_number_assigned_by_partnership_4,,Text,2 Account number assigned by partnership (if any),,,,8388608,,,Center
+8805,topmostSubform[0].CopyD[0].Lines1-4[0].f1_10[0],px_3_type_of_partner_specifysee_instructions_4,,Text,3 Type of partner (specify—see instructions) ▶,,,,8388608,,,Left
+8805,topmostSubform[0].CopyD[0].Lines1-4[0].f1_11[0],px_4_country_code_of_partner_enter_two_letter_codesee_instructions_4,,Text,4 Country code of partner (enter two-letter code—see instructions),,,2,0,,,Center
+8805,topmostSubform[0].CopyD[0].f1_12[0],px_5a_name_of_partnership_4,,Text,5a Name of partnership,,,,8388608,,,Left
+8805,topmostSubform[0].CopyD[0].f1_13[0],px_b_u_s_employer_identification_number_ein_4,,Text,b U.S. Employer Identification Number (EIN),,,10,0,,,Center
+8805,topmostSubform[0].CopyD[0].f1_14[0],px_c_address_if_a_foreign_address_11,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyD[0].f1_15[0],px_6_withholding_agents_name_if_partnership_is_also_the_withholding_agent_enter_same_and_do_not_complete_line_7_4,,Text,"6 Withholding agent’s name. If partnership is also the withholding agent, enter “SAME” and do not complete line 7.",,,,8388608,,,Left
+8805,topmostSubform[0].CopyD[0].f1_16[0],px_7_withholding_agents_u_s_ein_4,,Text,7 Withholding agent’s U.S. EIN,,,10,0,,,Center
+8805,topmostSubform[0].CopyD[0].c1_1[0],px_topmostsubform_0_copyd_0_c1_1_0,,Button,,1,1|0|2,,0,,,Left
+8805,topmostSubform[0].CopyD[0].c1_2[0],px_topmostsubform_0_copyd_0_c1_2_0,,Button,,1,1|0|2,,0,,,Left
+8805,topmostSubform[0].CopyD[0].f1_17[0],px_topmostsubform_0_copyd_0_f1_17_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyD[0].f1_18[0],px_topmostsubform_0_copyd_0_f1_18_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyD[0].Line11_ReadOrder[0].f1_19[0],px_11a_name_of_beneficiary_4,,Text,11a Name of beneficiary,,,,8388608,,,Left
+8805,topmostSubform[0].CopyD[0].Line11_ReadOrder[0].f1_20[0],px_b_u_s_identifying_number_of_beneficiary_4,,Text,b U.S. identifying number of beneficiary,,,,8388608,,,Center
+8805,topmostSubform[0].CopyD[0].f1_21[0],px_c_address_if_a_foreign_address_12,,Text,"c Address (if a foreign address, see instructions)",,,,8392704,,,Left
+8805,topmostSubform[0].CopyD[0].f1_22[0],px_topmostsubform_0_copyd_0_f1_22_0,,Text,,,,,8388608,,,Right
+8805,topmostSubform[0].CopyD[0].f1_23[0],px_topmostsubform_0_copyd_0_f1_23_0,,Text,,,,,8388608,,,Right

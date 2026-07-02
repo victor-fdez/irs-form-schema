@@ -1,0 +1,10 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+8813,f1_001(0),px_f1_001_0,,Text,,,,4,0,,,Left
+8813,f1_002(0),px_f1_002_0,,Text,,,,50,0,,,Left
+8813,f1_003(0),px_f1_003_0,,Text,,,,2,0,,,Left
+8813,f1_004(0),px_f1_004_0,,Text,,,,50,0,,,Left
+8813,f1_005(0),px_f1_005_0,,Text,,,,2,0,,,Left
+8813,f1_006(0),px_f1_006_0,,Text,,,,2,0,,,Center
+8813,f1_007(0),px_f1_007_0,,Text,,,,9,0,,,Center
+8813,f1_008(0),px_f1_008_0,,Text,,,,50,0,,,Right
+8813,f1_009(0),px_f1_009_0,,Text,,,,,4096,,,Left

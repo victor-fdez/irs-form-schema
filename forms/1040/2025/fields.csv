@@ -1,0 +1,200 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+1040,topmostSubform[0].Page1[0].f1_01[0],p1_for_the_year_jan_1dec_31_2025_or_other_tax_year_beginning,1,Text,"For the year Jan. 1–Dec. 31, 2025, or other tax year beginning",,,,8388608,,,Center
+1040,topmostSubform[0].Page1[0].f1_02[0],p1_2025_ending,1,Text,", 2025, ending",,,,8388608,,,Center
+1040,topmostSubform[0].Page1[0].f1_03[0],p1_20,1,Text,", 20",,,2,0,,,Center
+1040,topmostSubform[0].Page1[0].c1_1[0],filed_pursuant_to_section_301_9100_2,1,Button,Filed pursuant to section 301.9100-2,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_2[0],combat_zone,1,Button,Combat zone,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_04[0],p1_topmostsubform_0_page1_0_f1_04_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].c1_3[0],deceased,1,Button,Deceased,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_05[0],p1_topmostsubform_0_page1_0_f1_05_0,1,Text,,,,2,0,,,Center
+1040,topmostSubform[0].Page1[0].f1_06[0],p1_topmostsubform_0_page1_0_f1_06_0,1,Text,/,,,2,0,,,Center
+1040,topmostSubform[0].Page1[0].f1_07[0],p1_topmostsubform_0_page1_0_f1_07_0,1,Text,/,,,4,0,,,Center
+1040,topmostSubform[0].Page1[0].f1_08[0],p1_topmostsubform_0_page1_0_f1_08_0,1,Text,,,,2,0,,,Center
+1040,topmostSubform[0].Page1[0].f1_09[0],p1_topmostsubform_0_page1_0_f1_09_0,1,Text,/,,,2,0,,,Center
+1040,topmostSubform[0].Page1[0].f1_10[0],p1_topmostsubform_0_page1_0_f1_10_0,1,Text,/,,,4,0,,,Center
+1040,topmostSubform[0].Page1[0].c1_4[0],other,1,Button,Other,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_11[0],p1_topmostsubform_0_page1_0_f1_11_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].f1_12[0],p1_topmostsubform_0_page1_0_f1_12_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].f1_13[0],p1_topmostsubform_0_page1_0_f1_13_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].f1_14[0],taxpayer_first_name_middle_initial,1,Text,Your first name and middle initial,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].f1_15[0],taxpayer_last_name,1,Text,Last name,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].f1_16[0],taxpayer_ssn,1,Text,Your social security number,,,9,25165824,,,Left
+1040,topmostSubform[0].Page1[0].f1_17[0],spouse_first_name_middle_initial,1,Text,"If joint return, spouse’s first name and middle initial",,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].f1_18[0],spouse_last_name,1,Text,Last name,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].f1_19[0],spouse_ssn,1,Text,Spouse’s social security number,,,9,25165824,,,Left
+1040,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_20[0],taxpayer_street,1,Text,"Home address (number and street). If you have a P.O. box, see instructions.",,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_21[0],taxpayer_apt,1,Text,Apt. no.,,,,8388608,,,Center
+1040,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_22[0],taxpayer_city_state_zip,1,Text,"City, town, or post office. If you have a foreign address, also complete spaces below.",,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_23[0],p1_state,1,Text,State,,,,8388608,,,Center
+1040,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_24[0],p1_zip_code,1,Text,ZIP code,,,,8388608,,,Center
+1040,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_25[0],taxpayer_foreign_country,1,Text,Foreign country name,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_26[0],taxpayer_foreign_province_state_county,1,Text,Foreign province/state/county,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_27[0],taxpayer_foreign_postal_code,1,Text,Foreign postal code,,,,8388608,,,Center
+1040,topmostSubform[0].Page1[0].c1_5[0],p1_topmostsubform_0_page1_0_c1_5_0,1,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_6[0],you,1,Button,You,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_7[0],spouse,1,Button,Spouse,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].Checkbox_ReadOrder[0].c1_8[0],p1_topmostsubform_0_page1_0_checkbox_readorder_0_c1_8_0,1,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].Checkbox_ReadOrder[0].c1_8[1],p1_topmostsubform_0_page1_0_checkbox_readorder_0_c1_8_1,1,Button,,2,2|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].Checkbox_ReadOrder[0].c1_8[2],p1_topmostsubform_0_page1_0_checkbox_readorder_0_c1_8_2,1,Button,,3,3|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].Checkbox_ReadOrder[0].f1_28[0],p1_topmostsubform_0_page1_0_checkbox_readorder_0_f1_28_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].c1_8[0],p1_topmostsubform_0_page1_0_c1_8_0,1,Button,,4,4|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_8[1],p1_topmostsubform_0_page1_0_c1_8_1,1,Button,,5,5|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_29[0],p1_topmostsubform_0_page1_0_f1_29_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].c1_9[0],p1_topmostsubform_0_page1_0_c1_9_0,1,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_30[0],p1_topmostsubform_0_page1_0_f1_30_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].c1_10[0],p1_topmostsubform_0_page1_0_c1_10_0_yes,1,Button,Yes,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_10[1],p1_topmostsubform_0_page1_0_c1_10_1_no,1,Button,No,2,2|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].Dependents_ReadOrder[0].c1_11[0],p1_topmostsubform_0_page1_0_dependents_readorder_0_c1_11_0,1,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row1[0].f1_31[0],p1_topmostsubform_0_page1_0_table_dependents_0_row1_0_f1_31_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row1[0].f1_32[0],p1_topmostsubform_0_page1_0_table_dependents_0_row1_0_f1_32_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row1[0].f1_33[0],p1_topmostsubform_0_page1_0_table_dependents_0_row1_0_f1_33_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row1[0].f1_34[0],p1_topmostsubform_0_page1_0_table_dependents_0_row1_0_f1_34_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row2[0].f1_35[0],p1_topmostsubform_0_page1_0_table_dependents_0_row2_0_f1_35_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row2[0].f1_36[0],p1_topmostsubform_0_page1_0_table_dependents_0_row2_0_f1_36_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row2[0].f1_37[0],p1_topmostsubform_0_page1_0_table_dependents_0_row2_0_f1_37_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row2[0].f1_38[0],p1_topmostsubform_0_page1_0_table_dependents_0_row2_0_f1_38_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row3[0].f1_39[0],p1_topmostsubform_0_page1_0_table_dependents_0_row3_0_f1_39_0,1,Text,,,,9,25165824,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row3[0].f1_40[0],p1_topmostsubform_0_page1_0_table_dependents_0_row3_0_f1_40_0,1,Text,,,,9,25165824,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row3[0].f1_41[0],p1_topmostsubform_0_page1_0_table_dependents_0_row3_0_f1_41_0,1,Text,,,,9,25165824,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row3[0].f1_42[0],p1_topmostsubform_0_page1_0_table_dependents_0_row3_0_f1_42_0,1,Text,,,,9,25165824,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row4[0].f1_43[0],p1_topmostsubform_0_page1_0_table_dependents_0_row4_0_f1_43_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row4[0].f1_44[0],p1_topmostsubform_0_page1_0_table_dependents_0_row4_0_f1_44_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row4[0].f1_45[0],p1_topmostsubform_0_page1_0_table_dependents_0_row4_0_f1_45_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row4[0].f1_46[0],p1_topmostsubform_0_page1_0_table_dependents_0_row4_0_f1_46_0,1,Text,,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row5[0].Dependent1[0].c1_12[0],p1_topmostsubform_0_page1_0_table_dependents_0_row5_0_dependent1_0_c1_12_0_yes,1,Button,Yes,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row5[0].Dependent1[0].c1_13[0],and_in_the_u_s,1,Button,And in the U.S.,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row5[0].Dependent2[0].c1_14[0],p1_topmostsubform_0_page1_0_table_dependents_0_row5_0_dependent2_0_c1_14_0_yes,1,Button,Yes,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row5[0].Dependent2[0].c1_15[0],and_in_the_u_s_2,1,Button,And in the U.S.,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row5[0].Dependent3[0].c1_16[0],p1_topmostsubform_0_page1_0_table_dependents_0_row5_0_dependent3_0_c1_16_0_yes,1,Button,Yes,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row5[0].Dependent3[0].c1_17[0],and_in_the_u_s_3,1,Button,And in the U.S.,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row5[0].Dependent4[0].c1_18[0],p1_topmostsubform_0_page1_0_table_dependents_0_row5_0_dependent4_0_c1_18_0_yes,1,Button,Yes,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row5[0].Dependent4[0].c1_19[0],and_in_the_u_s_4,1,Button,And in the U.S.,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row6[0].Dependent1[0].c1_20[0],full_time_student,1,Button,Full-time student,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row6[0].Dependent1[0].c1_21[0],permanently_and_totally_disabled,1,Button,Permanently and totally disabled,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row6[0].Dependent2[0].c1_22[0],full_time_student_2,1,Button,Full-time student,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row6[0].Dependent2[0].c1_23[0],permanently_and_totally_disabled_2,1,Button,Permanently and totally disabled,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row6[0].Dependent3[0].c1_24[0],full_time_student_3,1,Button,Full-time student,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row6[0].Dependent3[0].c1_25[0],permanently_and_totally_disabled_3,1,Button,Permanently and totally disabled,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row6[0].Dependent4[0].c1_26[0],full_time_student_4,1,Button,Full-time student,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row6[0].Dependent4[0].c1_27[0],permanently_and_totally_disabled_4,1,Button,Permanently and totally disabled,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row7[0].Dependent1[0].c1_28[0],child_tax_credit,1,Button,Child tax credit,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row7[0].Dependent1[0].c1_28[1],credit_for_other_dependents,1,Button,Credit for other dependents,2,2|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row7[0].Dependent2[0].c1_29[0],child_tax_credit_2,1,Button,Child tax credit,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row7[0].Dependent2[0].c1_29[1],credit_for_other_dependents_2,1,Button,Credit for other dependents,2,2|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row7[0].Dependent3[0].c1_30[0],child_tax_credit_3,1,Button,Child tax credit,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row7[0].Dependent3[0].c1_30[1],credit_for_other_dependents_3,1,Button,Credit for other dependents,2,2|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row7[0].Dependent4[0].c1_31[0],child_tax_credit_4,1,Button,Child tax credit,1,1|0|2,,0,,,Left
+1040,topmostSubform[0].Page1[0].Table_Dependents[0].Row7[0].Dependent4[0].c1_31[1],credit_for_other_dependents_4,1,Button,Credit for other dependents,2,2|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_32[0],p1_topmostsubform_0_page1_0_c1_32_0,1,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_47[0],p1_topmostsubform_0_page1_0_f1_47_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_48[0],p1_topmostsubform_0_page1_0_f1_48_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_49[0],p1_topmostsubform_0_page1_0_f1_49_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_50[0],p1_topmostsubform_0_page1_0_f1_50_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_51[0],p1_topmostsubform_0_page1_0_f1_51_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_52[0],p1_topmostsubform_0_page1_0_f1_52_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_53[0],p1_topmostsubform_0_page1_0_f1_53_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_54[0],p1_other_earned_income_enter_type_and_amount,1,Text,Other earned income (see instructions). Enter type and amount:,,,,8388608,,,Left
+1040,topmostSubform[0].Page1[0].f1_55[0],p1_topmostsubform_0_page1_0_f1_55_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_56[0],p1_topmostsubform_0_page1_0_f1_56_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_57[0],p1_topmostsubform_0_page1_0_f1_57_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_58[0],p1_topmostsubform_0_page1_0_f1_58_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_59[0],p1_topmostsubform_0_page1_0_f1_59_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_60[0],p1_topmostsubform_0_page1_0_f1_60_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_61[0],p1_topmostsubform_0_page1_0_f1_61_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].c1_33[0],line_3a,1,Button,Line 3a,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_34[0],line_3b,1,Button,Line 3b,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_62[0],p1_topmostsubform_0_page1_0_f1_62_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_63[0],p1_topmostsubform_0_page1_0_f1_63_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].c1_35[0],rollover,1,Button,Rollover,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_36[0],qcd,1,Button,QCD,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_37[0],p1_topmostsubform_0_page1_0_c1_37_0,1,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_64[0],p1_topmostsubform_0_page1_0_f1_64_0,1,Text,,,,,8388608,,,Center
+1040,topmostSubform[0].Page1[0].f1_65[0],p1_topmostsubform_0_page1_0_f1_65_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_66[0],p1_topmostsubform_0_page1_0_f1_66_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].c1_38[0],rollover_2,1,Button,Rollover,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_39[0],pso,1,Button,PSO,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_40[0],p1_topmostsubform_0_page1_0_c1_40_0,1,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_67[0],p1_topmostsubform_0_page1_0_f1_67_0,1,Text,,,,,8388608,,,Center
+1040,topmostSubform[0].Page1[0].f1_68[0],p1_topmostsubform_0_page1_0_f1_68_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_69[0],p1_topmostsubform_0_page1_0_f1_69_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].c1_41[0],p1_topmostsubform_0_page1_0_c1_41_0,1,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_42[0],p1_topmostsubform_0_page1_0_c1_42_0,1,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_70[0],p1_topmostsubform_0_page1_0_f1_70_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].c1_43[0],schedule_d_not_required,1,Button,Schedule D not required,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].c1_44[0],includes_childs_capital_gain_or_loss,1,Button,Includes child’s capital gain or (loss),1,1|0,,0,,,Left
+1040,topmostSubform[0].Page1[0].f1_71[0],p1_topmostsubform_0_page1_0_f1_71_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_72[0],p1_topmostsubform_0_page1_0_f1_72_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_73[0],p1_topmostsubform_0_page1_0_f1_73_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_74[0],p1_topmostsubform_0_page1_0_f1_74_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page1[0].f1_75[0],p1_topmostsubform_0_page1_0_f1_75_0,1,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_01[0],p2_topmostsubform_0_page2_0_f2_01_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].c2_1[0],you_as_a_dependent,2,Button,You as a dependent,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_2[0],your_spouse_as_a_dependent,2,Button,Your spouse as a dependent,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_3[0],spouse_itemizes_on_a_separate_return,2,Button,Spouse itemizes on a separate return,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_4[0],you_were_a_dual_status_alien,2,Button,You were a dual-status alien,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_5[0],were_born_before_january_2_1961,2,Button,"Were born before January 2, 1961",1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_6[0],are_blind,2,Button,Are blind,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_7[0],was_born_before_january_2_1961,2,Button,"Was born before January 2, 1961",1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_8[0],is_blind,2,Button,Is blind,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].f2_02[0],p2_topmostsubform_0_page2_0_f2_02_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_03[0],p2_topmostsubform_0_page2_0_f2_03_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_04[0],p2_topmostsubform_0_page2_0_f2_04_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_05[0],p2_topmostsubform_0_page2_0_f2_05_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_06[0],p2_topmostsubform_0_page2_0_f2_06_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].c2_9[0],8814,2,Button,8814,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_10[0],4972,2,Button,4972,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_11[0],p2_topmostsubform_0_page2_0_c2_11_0,2,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].f2_07[0],p2_topmostsubform_0_page2_0_f2_07_0,2,Text,,,,,8388608,,,Center
+1040,topmostSubform[0].Page2[0].f2_08[0],p2_topmostsubform_0_page2_0_f2_08_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_09[0],p2_topmostsubform_0_page2_0_f2_09_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_10[0],p2_topmostsubform_0_page2_0_f2_10_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_11[0],p2_topmostsubform_0_page2_0_f2_11_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_12[0],p2_topmostsubform_0_page2_0_f2_12_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_13[0],p2_topmostsubform_0_page2_0_f2_13_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_14[0],p2_topmostsubform_0_page2_0_f2_14_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_15[0],p2_topmostsubform_0_page2_0_f2_15_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_16[0],p2_topmostsubform_0_page2_0_f2_16_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_17[0],p2_topmostsubform_0_page2_0_f2_17_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_18[0],p2_topmostsubform_0_page2_0_f2_18_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_19[0],p2_topmostsubform_0_page2_0_f2_19_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_20[0],p2_topmostsubform_0_page2_0_f2_20_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_21[0],p2_topmostsubform_0_page2_0_f2_21_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].SSN_ReadOrder[0].f2_22[0],p2_topmostsubform_0_page2_0_ssn_readorder_0_f2_22_0,2,Text,,,,9,16777216,,,Left
+1040,topmostSubform[0].Page2[0].f2_23[0],p2_topmostsubform_0_page2_0_f2_23_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].c2_12[0],p2_topmostsubform_0_page2_0_c2_12_0,2,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_13[0],p2_topmostsubform_0_page2_0_c2_13_0,2,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].Line28_ReadOrder[0].c2_14[0],p2_topmostsubform_0_page2_0_line28_readorder_0_c2_14_0,2,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].f2_24[0],p2_topmostsubform_0_page2_0_f2_24_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_25[0],p2_topmostsubform_0_page2_0_f2_25_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_26[0],p2_topmostsubform_0_page2_0_f2_26_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_27[0],p2_topmostsubform_0_page2_0_f2_27_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_28[0],p2_topmostsubform_0_page2_0_f2_28_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_29[0],p2_topmostsubform_0_page2_0_f2_29_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_30[0],p2_topmostsubform_0_page2_0_f2_30_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].c2_15[0],p2_topmostsubform_0_page2_0_c2_15_0,2,Button,,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].f2_31[0],p2_topmostsubform_0_page2_0_f2_31_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].RoutingNo[0].f2_32[0],p2_topmostsubform_0_page2_0_routingno_0_f2_32_0,2,Text,,,,9,25165824,,,Left
+1040,topmostSubform[0].Page2[0].c2_16[0],checking,2,Button,Checking,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_16[1],savings,2,Button,Savings,2,2|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].AccountNo[0].f2_33[0],p2_topmostsubform_0_page2_0_accountno_0_f2_33_0,2,Text,,,,17,25165824,,,Left
+1040,topmostSubform[0].Page2[0].f2_34[0],p2_topmostsubform_0_page2_0_f2_34_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_35[0],p2_topmostsubform_0_page2_0_f2_35_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].f2_36[0],p2_topmostsubform_0_page2_0_f2_36_0,2,Text,,,,,8388608,,,Right
+1040,topmostSubform[0].Page2[0].c2_17[0],yes_complete_below,2,Button,Yes. Complete below.,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].c2_17[1],p2_topmostsubform_0_page2_0_c2_17_1_no,2,Button,No,2,2|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].f2_37[0],p2_topmostsubform_0_page2_0_f2_37_0,2,Text,,,,,8392704,,,Left
+1040,topmostSubform[0].Page2[0].f2_38[0],p2_topmostsubform_0_page2_0_f2_38_0,2,Text,,,,,8388608,,,Center
+1040,topmostSubform[0].Page2[0].f2_39[0],p2_topmostsubform_0_page2_0_f2_39_0,2,Text,,,,5,25165824,,,Left
+1040,topmostSubform[0].Page2[0].f2_40[0],p2_your_occupation,2,Text,Your occupation,,,,8388608,,,Left
+1040,topmostSubform[0].Page2[0].f2_41[0],p2_topmostsubform_0_page2_0_f2_41_0,2,Text,,,,6,25165824,,,Left
+1040,topmostSubform[0].Page2[0].f2_42[0],p2_spouses_occupation,2,Text,Spouse’s occupation,,,,8388608,,,Left
+1040,topmostSubform[0].Page2[0].f2_43[0],p2_topmostsubform_0_page2_0_f2_43_0,2,Text,,,,6,25165824,,,Left
+1040,topmostSubform[0].Page2[0].f2_44[0],p2_phone_no,2,Text,Phone no.,,,,8388608,,,Center
+1040,topmostSubform[0].Page2[0].f2_45[0],p2_email_address,2,Text,Email address,,,,8388608,,,Left
+1040,topmostSubform[0].Page2[0].f2_46[0],p2_preparers_name,2,Text,Preparer’s name,,,,8388608,,,Left
+1040,topmostSubform[0].Page2[0].f2_47[0],p2_ptin,2,Text,PTIN,,,11,0,,,Center
+1040,topmostSubform[0].Page2[0].c2_18[0],self_employed,2,Button,Self-employed,1,1|0,,0,,,Left
+1040,topmostSubform[0].Page2[0].f2_48[0],p2_firms_name,2,Text,Firm’s name,,,,8388608,,,Left
+1040,topmostSubform[0].Page2[0].f2_49[0],p2_phone_no_2,2,Text,Phone no.,,,,8388608,,,Center
+1040,topmostSubform[0].Page2[0].f2_50[0],p2_firms_address,2,Text,Firm’s address,,,,8388608,,,Left
+1040,topmostSubform[0].Page2[0].f2_51[0],p2_firms_ein,2,Text,Firm’s EIN,,,10,0,,,Center

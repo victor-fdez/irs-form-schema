@@ -1,0 +1,34 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+1040-schedule-a,form1[0].Page1[0].f1_1[0],p1_name_s_shown_on_form_1040_or_1040_sr,1,Text,Name(s) shown on Form 1040 or 1040-SR,,,,8388608,,,Left
+1040-schedule-a,form1[0].Page1[0].f1_2[0],taxpayer_ssn,1,Text,Your social security number,,,11,0,,,Center
+1040-schedule-a,form1[0].Page1[0].f1_3[0],p1_form1_0_page1_0_f1_3_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].Line2_ReadOrder[0].f1_4[0],p1_form1_0_page1_0_line2_readorder_0_f1_4_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_5[0],p1_form1_0_page1_0_f1_5_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_6[0],p1_form1_0_page1_0_f1_6_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].c1_1[0],p1_form1_0_page1_0_c1_1_0,1,Button,,1,1|0,,0,,,Left
+1040-schedule-a,form1[0].Page1[0].f1_7[0],p1_form1_0_page1_0_f1_7_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_8[0],p1_form1_0_page1_0_f1_8_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_9[0],p1_form1_0_page1_0_f1_9_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_10[0],p1_form1_0_page1_0_f1_10_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_11[0],p1_form1_0_page1_0_f1_11_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_12[0],p1_form1_0_page1_0_f1_12_0,1,Text,,,,,8392704,,,Left
+1040-schedule-a,form1[0].Page1[0].f1_13[0],p1_form1_0_page1_0_f1_13_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_14[0],p1_form1_0_page1_0_f1_14_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].Line8_ReadOrder[0].c1_2[0],p1_form1_0_page1_0_line8_readorder_0_c1_2_0,1,Button,,1,1|0,,0,,,Left
+1040-schedule-a,form1[0].Page1[0].f1_15[0],p1_form1_0_page1_0_f1_15_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].Line8b_ReadOrder[0].f1_16[0],p1_form1_0_page1_0_line8b_readorder_0_f1_16_0,1,Text,,,,,8392704,,,Left
+1040-schedule-a,form1[0].Page1[0].f1_17[0],p1_form1_0_page1_0_f1_17_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_18[0],p1_form1_0_page1_0_f1_18_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_19[0],p1_form1_0_page1_0_f1_19_0,1,Text,,,,,8388609,readOnly,,Right
+1040-schedule-a,form1[0].Page1[0].f1_20[0],p1_form1_0_page1_0_f1_20_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_21[0],p1_form1_0_page1_0_f1_21_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_22[0],p1_form1_0_page1_0_f1_22_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_23[0],p1_form1_0_page1_0_f1_23_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_24[0],p1_form1_0_page1_0_f1_24_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_25[0],p1_form1_0_page1_0_f1_25_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_26[0],p1_form1_0_page1_0_f1_26_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_27[0],p1_form1_0_page1_0_f1_27_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_28[0],p1_form1_0_page1_0_f1_28_0,1,Text,,,,,8392704,,,Left
+1040-schedule-a,form1[0].Page1[0].f1_29[0],p1_form1_0_page1_0_f1_29_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].f1_30[0],p1_form1_0_page1_0_f1_30_0,1,Text,,,,,8388608,,,Right
+1040-schedule-a,form1[0].Page1[0].Line18_ReadOrder[0].c1_3[0],p1_form1_0_page1_0_line18_readorder_0_c1_3_0,1,Button,,1,1|0,,0,,,Left

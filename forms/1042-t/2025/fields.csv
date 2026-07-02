@@ -1,0 +1,20 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+1042-t,topmostSubform[0].Page1[0].f1_1[0],withholding_agent_name,1,Text,Name of withholding agent,,,,8388608,,,Left
+1042-t,topmostSubform[0].Page1[0].StatusCodes[0].f1_2[0],p1_ch_4_status_code,1,Text,Ch. 4 status code,,,,8388608,,,Center
+1042-t,topmostSubform[0].Page1[0].StatusCodes[0].f1_3[0],p1_ch_3_status_code,1,Text,Ch. 3 status code,,,,8388608,,,Center
+1042-t,topmostSubform[0].Page1[0].f1_4[0],p1_employer_identification_number,1,Text,Employer identification number,,,10,0,,,Center
+1042-t,topmostSubform[0].Page1[0].f1_5[0],taxpayer_street,1,Text,"Number, street, and room or suite no.",,,,8388608,,,Left
+1042-t,topmostSubform[0].Page1[0].f1_6[0],taxpayer_postal_code,1,Text,"City or town, state or province, country, and ZIP or foreign postal code",,,,8388608,,,Left
+1042-t,topmostSubform[0].Page1[0].f1_7[0],p1_chapter_4_or_chapter_3_enter_4_or_3,1,Text,Chapter 4 or chapter 3 (enter 4 or 3),,,1,0,,,Center
+1042-t,topmostSubform[0].Page1[0].c1_1[0],original,1,Button,Original,1,1|0,,0,,,Left
+1042-t,topmostSubform[0].Page1[0].c1_1[1],amended,1,Button,Amended,2,2|0,,0,,,Left
+1042-t,topmostSubform[0].Page1[0].c1_2[0],p1_topmostsubform_0_page1_0_c1_2_0,1,Button,,1,1|0,,0,,,Left
+1042-t,topmostSubform[0].Page1[0].f1_8[0],p1_enter_the_number_of_paper_forms_1042_s_attached,1,Text,Enter the number of paper Forms 1042-S attached,,,,8388608,,,Center
+1042-t,topmostSubform[0].Page1[0].c1_3[0],check_if_you_are_a_partnership_reporting_withholding_that_occurred_in_the_subsequent_year,1,Button,Check if you are a partnership reporting withholding that occurred in the subsequent year. See instructions.,1,1|0,,0,,,Left
+1042-t,topmostSubform[0].Page1[0].c1_4[0],p1_topmostsubform_0_page1_0_c1_4_0,1,Button,,1,1|0,,0,,,Left
+1042-t,topmostSubform[0].Page1[0].f1_9[0],p1_topmostsubform_0_page1_0_f1_9_0,1,Text,$,,,,8388608,,,Right
+1042-t,topmostSubform[0].Page1[0].f1_10[0],p1_topmostsubform_0_page1_0_f1_10_0,1,Text,$,,,,8388608,,,Right
+1042-t,topmostSubform[0].Page1[0].f1_11[0],p1_topmostsubform_0_page1_0_f1_11_0,1,Text,$,,,,8388608,,,Right
+1042-t,topmostSubform[0].Page1[0].c1_5[0],p1_topmostsubform_0_page1_0_c1_5_0,1,Button,,1,1|0,,0,,,Left
+1042-t,topmostSubform[0].Page1[0].f1_12[0],p1_title,1,Text,Title,,,,8388608,,,Left
+1042-t,topmostSubform[0].Page1[0].f1_13[0],p1_daytime_phone_number,1,Text,Daytime phone number,,,,8388608,,,Center

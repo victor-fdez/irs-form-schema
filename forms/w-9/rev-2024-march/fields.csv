@@ -1,0 +1,24 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+w-9,topmostSubform[0].Page1[0].f1_01[0],p1_1_name_of_entity_individual_an_entry_is_required_for_a_sole_proprietor_or_disregarded_entity_enter_the_owners_name_on_line_1_and_enter_the_business_disregarded_entitys_name_on_line_2,1,Text,"1 Name of entity/individual. An entry is required. (For a sole proprietor or disregarded entity, enter the owner’s name on line 1, and enter the business/disregarded entity’s name on line 2.)",,,,8388608,,,Left
+w-9,topmostSubform[0].Page1[0].f1_02[0],p1_2_business_name_disregarded_entity_name_if_different_from_above,1,Text,"2 Business name/disregarded entity name, if different from above.",,,,8388608,,,Left
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[0],individual_sole_proprietor,1,Button,Individual/sole proprietor,1,1|0,,0,,,Left
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[1],c_corporation,1,Button,C corporation,2,2|0,,0,,,Left
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[2],s_corporation,1,Button,S corporation,3,3|0,,0,,,Left
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[3],partnership,1,Button,Partnership,4,4|0,,0,,,Left
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[4],trust_estate,1,Button,Trust/estate,5,5|0,,0,,,Left
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[5],p1_topmostsubform_0_page1_0_boxes3a_b_readorder_0_c1_1_5,1,Button,,6,6|0,,0,,,Left
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].f1_03[0],p1_llc_enter_the_tax_classification_c_c_corporation_s_s_corporation_p_partnership,1,Text,"LLC. Enter the tax classification (C = C corporation, S = S corporation, P = Partnership)",,,1,0,,,Center
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[6],p1_topmostsubform_0_page1_0_boxes3a_b_readorder_0_c1_1_6,1,Button,,7,7|0,,0,,,Left
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].f1_04[0],p1_other,1,Text,Other (see instructions),,,,8388608,,,Center
+w-9,topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_2[0],p1_topmostsubform_0_page1_0_boxes3a_b_readorder_0_c1_2_0,1,Button,,1,1|0,,0,,,Left
+w-9,topmostSubform[0].Page1[0].f1_05[0],p1_exempt_payee_code,1,Text,Exempt payee code (if any),,,,8388608,,,Center
+w-9,topmostSubform[0].Page1[0].f1_06[0],p1_code,1,Text,code (if any),,,,8388608,,,Center
+w-9,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_07[0],p1_5_address_number_street_and_apt_or_suite_no,1,Text,"5 Address (number, street, and apt. or suite no.). See instructions.",,,,8388608,,,Left
+w-9,topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_08[0],p1_6_city_state_and_zip_code,1,Text,"6 City, state, and ZIP code",,,,8388608,,,Left
+w-9,topmostSubform[0].Page1[0].f1_09[0],p1_requesters_name_and_address_optional,1,Text,Requester’s name and address (optional),,,,8392704,,,Left
+w-9,topmostSubform[0].Page1[0].f1_10[0],p1_7_list_account_number_s_here_optional,1,Text,7 List account number(s) here (optional),,,,8388608,,,Center
+w-9,topmostSubform[0].Page1[0].f1_11[0],p1_topmostsubform_0_page1_0_f1_11_0,1,Text,,,,3,25165824,,,Left
+w-9,topmostSubform[0].Page1[0].f1_12[0],p1_topmostsubform_0_page1_0_f1_12_0,1,Text,,,,2,25165824,,,Left
+w-9,topmostSubform[0].Page1[0].f1_13[0],p1_topmostsubform_0_page1_0_f1_13_0,1,Text,,,,4,25165824,,,Left
+w-9,topmostSubform[0].Page1[0].f1_14[0],p1_topmostsubform_0_page1_0_f1_14_0,1,Text,,,,2,25165824,,,Left
+w-9,topmostSubform[0].Page1[0].f1_15[0],p1_topmostsubform_0_page1_0_f1_15_0,1,Text,,,,7,25165824,,,Left

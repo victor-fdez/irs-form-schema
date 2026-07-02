@@ -1,0 +1,37 @@
+form_id,title,category,url
+1040,Form 1040,individual-core,https://www.irs.gov/pub/irs-pdf/f1040.pdf
+1040-schedule-1,Form 1040 Schedule 1,individual-core,https://www.irs.gov/pub/irs-pdf/f1040s1.pdf
+1040-schedule-2,Form 1040 Schedule 2,individual-core,https://www.irs.gov/pub/irs-pdf/f1040s2.pdf
+1040-schedule-3,Form 1040 Schedule 3,individual-core,https://www.irs.gov/pub/irs-pdf/f1040s3.pdf
+1040-schedule-a,Form 1040 Schedule A,individual-core,https://www.irs.gov/pub/irs-pdf/f1040sa.pdf
+1040-schedule-b,Form 1040 Schedule B,individual-core,https://www.irs.gov/pub/irs-pdf/f1040sb.pdf
+1040-schedule-c,Form 1040 Schedule C,individual-core,https://www.irs.gov/pub/irs-pdf/f1040sc.pdf
+1040-schedule-d,Form 1040 Schedule D,individual-core,https://www.irs.gov/pub/irs-pdf/f1040sd.pdf
+1040-schedule-e,Form 1040 Schedule E,individual-core,https://www.irs.gov/pub/irs-pdf/f1040se.pdf
+1040-schedule-se,Form 1040 Schedule SE,individual-core,https://www.irs.gov/pub/irs-pdf/f1040sse.pdf
+8949,Form 8949,individual-core,https://www.irs.gov/pub/irs-pdf/f8949.pdf
+8863,Form 8863,individual-core,https://www.irs.gov/pub/irs-pdf/f8863.pdf
+8889,Form 8889,individual-core,https://www.irs.gov/pub/irs-pdf/f8889.pdf
+8962,Form 8962,individual-core,https://www.irs.gov/pub/irs-pdf/f8962.pdf
+2441,Form 2441,individual-core,https://www.irs.gov/pub/irs-pdf/f2441.pdf
+3520,Form 3520,international-information,https://www.irs.gov/pub/irs-pdf/f3520.pdf
+8812,Schedule 8812,individual-core,https://www.irs.gov/pub/irs-pdf/f1040s8.pdf
+5695,Form 5695,individual-core,https://www.irs.gov/pub/irs-pdf/f5695.pdf
+8283,Form 8283,individual-core,https://www.irs.gov/pub/irs-pdf/f8283.pdf
+4562,Form 4562,individual-core,https://www.irs.gov/pub/irs-pdf/f4562.pdf
+8829,Form 8829,individual-core,https://www.irs.gov/pub/irs-pdf/f8829.pdf
+4868,Form 4868,individual-core,https://www.irs.gov/pub/irs-pdf/f4868.pdf
+w-4,Form W-4,individual-withholding,https://www.irs.gov/pub/irs-pdf/fw4.pdf
+w-9,Form W-9,individual-withholding,https://www.irs.gov/pub/irs-pdf/fw9.pdf
+1042,Form 1042,1042-withholding,https://www.irs.gov/pub/irs-pdf/f1042.pdf
+1042-s,Form 1042-S,1042-withholding,https://www.irs.gov/pub/irs-pdf/f1042s.pdf
+1042-t,Form 1042-T,1042-withholding,https://www.irs.gov/pub/irs-pdf/f1042t.pdf
+w-8ben,Form W-8BEN,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8ben.pdf
+w-8ben-e,Form W-8BEN-E,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8bene.pdf
+w-8eci,Form W-8ECI,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8eci.pdf
+w-8exp,Form W-8EXP,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8exp.pdf
+w-8imy,Form W-8IMY,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8imy.pdf
+8233,Form 8233,1042-certificates,https://www.irs.gov/pub/irs-pdf/f8233.pdf
+8804,Form 8804,1042-partnership-withholding,https://www.irs.gov/pub/irs-pdf/f8804.pdf
+8805,Form 8805,1042-partnership-withholding,https://www.irs.gov/pub/irs-pdf/f8805.pdf
+8813,Form 8813,1042-partnership-withholding,https://www.irs.gov/pub/irs-pdf/f8813.pdf

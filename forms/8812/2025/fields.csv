@@ -1,0 +1,42 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+8812,topmostSubform[0].Page1[0].f1_1[0],name_shown_on_return,1,Text,Name(s) shown on return,,,,8388608,,,Left
+8812,topmostSubform[0].Page1[0].f1_2[0],taxpayer_ssn,1,Text,Your social security number,,,11,0,,,Center
+8812,topmostSubform[0].Page1[0].f1_3[0],p1_topmostsubform_0_page1_0_f1_3_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_4[0],p1_topmostsubform_0_page1_0_f1_4_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_5[0],p1_topmostsubform_0_page1_0_f1_5_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_6[0],p1_topmostsubform_0_page1_0_f1_6_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_7[0],p1_topmostsubform_0_page1_0_f1_7_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_8[0],p1_topmostsubform_0_page1_0_f1_8_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_9[0],p1_topmostsubform_0_page1_0_f1_9_0,1,Text,,,,,8388608,,,Center
+8812,topmostSubform[0].Page1[0].f1_10[0],p1_topmostsubform_0_page1_0_f1_10_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].Line6ReadOrder[0].f1_11[0],p1_topmostsubform_0_page1_0_line6readorder_0_f1_11_0,1,Text,,,,,8388608,,,Center
+8812,topmostSubform[0].Page1[0].f1_12[0],p1_topmostsubform_0_page1_0_f1_12_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_13[0],p1_topmostsubform_0_page1_0_f1_13_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_14[0],p1_topmostsubform_0_page1_0_f1_14_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_15[0],p1_topmostsubform_0_page1_0_f1_15_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_16[0],p1_topmostsubform_0_page1_0_f1_16_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_17[0],p1_topmostsubform_0_page1_0_f1_17_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].c1_1[0],p1_topmostsubform_0_page1_0_c1_1_0,1,Button,,1,1|0|2,,0,,,Left
+8812,topmostSubform[0].Page1[0].c1_1[1],p1_topmostsubform_0_page1_0_c1_1_1,1,Button,,2,2|0,,0,,,Left
+8812,topmostSubform[0].Page1[0].f1_18[0],p1_topmostsubform_0_page1_0_f1_18_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page1[0].f1_19[0],p1_topmostsubform_0_page1_0_f1_19_0,1,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_1[0],p2_topmostsubform_0_page2_0_f2_1_0,2,Text,,,,,8388609,readOnly,,Right
+8812,topmostSubform[0].Page2[0].f2_2[0],p2_topmostsubform_0_page2_0_f2_2_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_3[0],p2_number_of_qualifying_children_under_age_17_with_the_required_social_security_number,2,Text,Number of qualifying children under age 17 with the required social security number:,,,,8388608,,,Center
+8812,topmostSubform[0].Page2[0].f2_4[0],p2_topmostsubform_0_page2_0_f2_4_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_5[0],p2_topmostsubform_0_page2_0_f2_5_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_6[0],p2_topmostsubform_0_page2_0_f2_6_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_7[0],p2_topmostsubform_0_page2_0_f2_7_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].c2_1[0],p2_topmostsubform_0_page2_0_c2_1_0_no,2,Button,No.,1,1|0,,0,,,Left
+8812,topmostSubform[0].Page2[0].c2_1[1],p2_topmostsubform_0_page2_0_c2_1_1_yes,2,Button,Yes.,2,2|0,,0,,,Left
+8812,topmostSubform[0].Page2[0].f2_8[0],p2_topmostsubform_0_page2_0_f2_8_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_9[0],p2_topmostsubform_0_page2_0_f2_9_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].c2_2[0],p2_topmostsubform_0_page2_0_c2_2_0_no,2,Button,No.,1,1|0,,0,,,Left
+8812,topmostSubform[0].Page2[0].c2_2[1],p2_topmostsubform_0_page2_0_c2_2_1_yes,2,Button,Yes.,2,2|0,,0,,,Left
+8812,topmostSubform[0].Page2[0].f2_10[0],p2_topmostsubform_0_page2_0_f2_10_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_11[0],p2_topmostsubform_0_page2_0_f2_11_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_12[0],p2_topmostsubform_0_page2_0_f2_12_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_13[0],p2_topmostsubform_0_page2_0_f2_13_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_14[0],p2_topmostsubform_0_page2_0_f2_14_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_15[0],p2_topmostsubform_0_page2_0_f2_15_0,2,Text,,,,,8388608,,,Right
+8812,topmostSubform[0].Page2[0].f2_16[0],p2_topmostsubform_0_page2_0_f2_16_0,2,Text,,,,,8388608,,,Right
