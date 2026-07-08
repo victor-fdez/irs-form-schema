@@ -29,6 +29,14 @@ Form 1042-S, and related withholding/certificate forms.
 - W-4
 - W-9
 
+## Taxpayer Identification And Certification
+
+- W-9 (SP)
+- W-9S
+- W-10
+- W-13
+- W-14
+
 ## International Information Reporting
 
 - 3520
@@ -40,6 +48,7 @@ Form 1042-S, and related withholding/certificate forms.
 - 1042-T
 - W-8BEN
 - W-8BEN-E
+- W-8CE
 - W-8ECI
 - W-8EXP
 - W-8IMY

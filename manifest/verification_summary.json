@@ -261,6 +261,33 @@
     "path": "forms/8962/2025/verification.json"
   },
   {
+    "form_id": "w-10",
+    "revision": "rev-2020-october",
+    "status": "ok",
+    "field_count": 6,
+    "renamed_field_count": 6,
+    "example_value_count": 5,
+    "path": "forms/w-10/rev-2020-october/verification.json"
+  },
+  {
+    "form_id": "w-13",
+    "revision": "rev-2014-january",
+    "status": "ok",
+    "field_count": 17,
+    "renamed_field_count": 17,
+    "example_value_count": 6,
+    "path": "forms/w-13/rev-2014-january/verification.json"
+  },
+  {
+    "form_id": "w-14",
+    "revision": "rev-2016-august",
+    "status": "ok",
+    "field_count": 25,
+    "renamed_field_count": 25,
+    "example_value_count": 14,
+    "path": "forms/w-14/rev-2016-august/verification.json"
+  },
+  {
     "form_id": "w-4",
     "revision": "2026",
     "status": "ok",
@@ -286,6 +313,15 @@
     "renamed_field_count": 179,
     "example_value_count": 13,
     "path": "forms/w-8ben-e/rev-2021-october/verification.json"
+  },
+  {
+    "form_id": "w-8ce",
+    "revision": "rev-2025-october",
+    "status": "ok",
+    "field_count": 17,
+    "renamed_field_count": 17,
+    "example_value_count": 7,
+    "path": "forms/w-8ce/rev-2025-october/verification.json"
   },
   {
     "form_id": "w-8eci",
@@ -322,5 +358,23 @@
     "renamed_field_count": 23,
     "example_value_count": 5,
     "path": "forms/w-9/rev-2024-march/verification.json"
+  },
+  {
+    "form_id": "w-9-sp",
+    "revision": "rev-2024-march",
+    "status": "ok",
+    "field_count": 23,
+    "renamed_field_count": 23,
+    "example_value_count": 4,
+    "path": "forms/w-9-sp/rev-2024-march/verification.json"
+  },
+  {
+    "form_id": "w-9s",
+    "revision": "rev-2026-january",
+    "status": "ok",
+    "field_count": 13,
+    "renamed_field_count": 13,
+    "example_value_count": 8,
+    "path": "forms/w-9s/rev-2026-january/verification.json"
   }
 ]

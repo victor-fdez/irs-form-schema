@@ -23,11 +23,17 @@ form_id,title,category,url
 4868,Form 4868,individual-core,https://www.irs.gov/pub/irs-pdf/f4868.pdf
 w-4,Form W-4,individual-withholding,https://www.irs.gov/pub/irs-pdf/fw4.pdf
 w-9,Form W-9,individual-withholding,https://www.irs.gov/pub/irs-pdf/fw9.pdf
+w-9-sp,Form W-9 (SP),tax-certificates,https://www.irs.gov/pub/irs-pdf/fw9sp.pdf
+w-9s,Form W-9S,tax-certificates,https://www.irs.gov/pub/irs-pdf/fw9s.pdf
+w-10,Form W-10,tax-certificates,https://www.irs.gov/pub/irs-pdf/fw10.pdf
+w-13,Form W-13,tax-certificates,https://www.irs.gov/pub/irs-pdf/fw13.pdf
+w-14,Form W-14,tax-certificates,https://www.irs.gov/pub/irs-pdf/fw14.pdf
 1042,Form 1042,1042-withholding,https://www.irs.gov/pub/irs-pdf/f1042.pdf
 1042-s,Form 1042-S,1042-withholding,https://www.irs.gov/pub/irs-pdf/f1042s.pdf
 1042-t,Form 1042-T,1042-withholding,https://www.irs.gov/pub/irs-pdf/f1042t.pdf
 w-8ben,Form W-8BEN,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8ben.pdf
 w-8ben-e,Form W-8BEN-E,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8bene.pdf
+w-8ce,Form W-8CE,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8ce.pdf
 w-8eci,Form W-8ECI,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8eci.pdf
 w-8exp,Form W-8EXP,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8exp.pdf
 w-8imy,Form W-8IMY,1042-certificates,https://www.irs.gov/pub/irs-pdf/fw8imy.pdf

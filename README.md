@@ -42,9 +42,9 @@ forms/w-8ben/rev-2021-october/
 ```
 
 The current dataset covers the individual Form 1040 family, common credits and
-schedules, Forms W-4 and W-9, Form 1042 and related withholding forms, and the
-W-8 certificate family. See [`manifest/forms.csv`](manifest/forms.csv) for the
-source list.
+schedules, Forms W-4 and W-9, taxpayer identification and certification forms,
+Form 1042 and related withholding forms, and the W-8 certificate family. See
+[`manifest/forms.csv`](manifest/forms.csv) for the source list.
 
 ## Quick Start
 

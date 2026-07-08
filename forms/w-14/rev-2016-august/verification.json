@@ -1,0 +1,15 @@
+{
+  "form_id": "w-14",
+  "revision": "rev-2016-august",
+  "field_count": 25,
+  "renamed_field_count": 25,
+  "example_value_count": 14,
+  "missing_renamed_fields": [],
+  "example_value_mismatches": {},
+  "pdftotext_sample_found": true,
+  "pdftotext_error": "",
+  "renamed_pdf": "forms/w-14/rev-2016-august/renamed.pdf",
+  "example_pdf": "forms/w-14/rev-2016-august/example_name_address.pdf",
+  "page1_png": "forms/w-14/rev-2016-august/example_page1.png",
+  "status": "ok"
+}

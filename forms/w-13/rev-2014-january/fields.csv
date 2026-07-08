@@ -1,0 +1,18 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+w-13,topmostSubform[0].Page1[0].f1_01_0_[0],p1_name_as_shown_on_your_tax_returns,1,Text,Name (as shown on your tax returns; see instructions),,,,8388608,,,Left
+w-13,topmostSubform[0].Page1[0].f1_02_0_[0],p1_business_name_disregarded_entity_name_if_different_from_above,1,Text,"Business name/disregarded entity name, if different from above",,,,8388608,,,Left
+w-13,topmostSubform[0].Page1[0].FedClassification[0].c1_01[0],individual_sole_proprietor,1,Button,Individual/sole proprietor,1,1,,0,,,Left
+w-13,topmostSubform[0].Page1[0].FedClassification[0].c1_01[1],c_corporation,1,Button,C corporation,2,2,,0,,,Left
+w-13,topmostSubform[0].Page1[0].FedClassification[0].c1_01[2],s_corporation,1,Button,S corporation,3,3,,0,,,Left
+w-13,topmostSubform[0].Page1[0].FedClassification[0].c1_01[3],partnership,1,Button,Partnership,4,4,,0,,,Left
+w-13,topmostSubform[0].Page1[0].FedClassification[0].c1_01[4],trust_estate,1,Button,Trust/estate,5,5,,0,,,Left
+w-13,topmostSubform[0].Page1[0].FedClassification[0].c1_01[5],p1_topmostsubform_0_page1_0_fedclassification_0_c1_01_5,1,Button,,6,6,,0,,,Left
+w-13,topmostSubform[0].Page1[0].FedClassification[0].f1_03_0_[0],p1_limited_liability_company_enter_the_tax_classification_c_c_corporation_s_s_corporation_p_partnership,1,Text,"Limited liability company (see instructions). Enter the tax classification (C=C corporation, S=S corporation, P=partnership) ▶",,,1,8388608,,,Center
+w-13,topmostSubform[0].Page1[0].FedClassification[0].c1_01[6],p1_topmostsubform_0_page1_0_fedclassification_0_c1_01_6,1,Button,,7,7,,0,,,Left
+w-13,topmostSubform[0].Page1[0].FedClassification[0].f1_50_0_[0],p1_other,1,Text,Other (see instructions) ▶,,,,8388608,,,Center
+w-13,topmostSubform[0].Page1[0].Address[0].f1_04_0_[0],p1_address_number_street_and_apt_or_suite_no,1,Text,"Address (number, street, and apt. or suite no.)",,,,8388608,,,Left
+w-13,topmostSubform[0].Page1[0].Address[0].f1_05_0_[0],p1_city_state_and_zip_code,1,Text,"City, state, and ZIP code",,,,8388608,,,Left
+w-13,topmostSubform[0].Page1[0].f1_06_0_[0],p1_requesters_name_and_address,1,Text,Requester’s name and address,,,,8392704,,,Left
+w-13,topmostSubform[0].Page1[0].Employeridentifi[0].f1_07[0],p1_topmostsubform_0_page1_0_employeridentifi_0_f1_07_0,1,Text,,,,2,25165824,,,Left
+w-13,topmostSubform[0].Page1[0].Employeridentifi[0].f1_08[0],p1_topmostsubform_0_page1_0_employeridentifi_0_f1_08_0,1,Text,,,,7,25165824,,,Left
+w-13,topmostSubform[0].Page1[0].f1_09_0_[0],p1_type_or_write_name_and_title,1,Text,Type or write name and title ▶,,,,8388608,,,Left

@@ -1,0 +1,24 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+w-9-sp,topmostSubform[0].Page1[0].f1_1[0],p1_1_nombre_de_la_entidad_del_individuo_se_requiere_una_anotacion_en_el_caso_de_un_dueno_unico_o_una_entidad_no_considerada_como_separada_de_su_dueno_anote_el_nombre_del_dueno_en_la_linea_1_y_anote_el_nombre_del_negocio_de_la_entidad_no_considerada_como_separada_de_su_dueno_en_la_linea_2,1,Text,"1 Nombre de la entidad/del individuo. Se requiere una anotación. (En el caso de un dueño único o una entidad no considerada como separada de su dueño, anote el nombre del dueño en la línea 1 y anote el nombre del negocio/de la entidad no considerada como separada de su dueño en la línea 2).",,,,8388608,,,Left
+w-9-sp,topmostSubform[0].Page1[0].f1_2[0],p1_2_nombre_del_negocio_nombre_de_la_entidad_no_considerada_como_separada_de_su_dueno_si_es_diferente_al_de_arriba,1,Text,"2 Nombre del negocio/nombre de la entidad no considerada como separada de su dueño, si es diferente al de arriba.",,,,8388608,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].c1_1[0],individuo_dueno_unico_de_un_negocio,1,Button,Individuo/dueño único de un negocio,1,1|0,,0,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].c1_1[1],sociedad_anonima_de_tipo_c,1,Button,Sociedad anónima de tipo C,2,2|0,,0,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].c1_1[2],sociedad_anonima_de_tipo_s,1,Button,Sociedad anónima de tipo S,3,3|0,,0,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].c1_1[3],sociedad_colectiva,1,Button,Sociedad colectiva,4,4|0,,0,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].c1_1[4],fideicomiso_caudal_hereditario,1,Button,Fideicomiso/caudal hereditario,5,5|0,,0,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].c1_1[5],p1_topmostsubform_0_page1_0_line3a_b_readorder_0_c1_1_5,1,Button,,6,6|0,,0,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].f1_3[0],p1_llc_anote_la_clasificacion_tributaria_c_soc_anonima_de_tipo_c_s_soc_anonima_de_tipo_s_p_soc_colectiva,1,Text,"LLC. Anote la clasificación tributaria (C=Soc. anónima de tipo C, S=Soc. anónima de tipo S, P=Soc. colectiva)",,,1,0,,,Center
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].c1_1[6],p1_topmostsubform_0_page1_0_line3a_b_readorder_0_c1_1_6,1,Button,,7,7|0,,0,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].f1_4[0],p1_otro_vea_las_instrucciones,1,Text,Otro (vea las instrucciones),,,,8388608,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line3a-b_ReadOrder[0].c1_2[0],p1_topmostsubform_0_page1_0_line3a_b_readorder_0_c1_2_0,1,Button,,1,1|0,,0,,,Left
+w-9-sp,topmostSubform[0].Page1[0].f1_5[0],p1_topmostsubform_0_page1_0_f1_5_0,1,Text,,,,13,0,,,Center
+w-9-sp,topmostSubform[0].Page1[0].f1_6[0],p1_topmostsubform_0_page1_0_f1_6_0,1,Text,,,,13,0,,,Center
+w-9-sp,topmostSubform[0].Page1[0].Line5-6_ReadOrder[0].f1_7[0],p1_5_direccion_numero_calle_y_numero_de_apartamento_u_oficina_vea_las_instrucciones,1,Text,"5 Dirección (número, calle y número de apartamento u oficina). Vea las instrucciones.",,,,8388608,,,Left
+w-9-sp,topmostSubform[0].Page1[0].Line5-6_ReadOrder[0].f1_8[0],taxpayer_postal_code,1,Text,"6 Ciudad, estado y código postal (ZIP)",,,,8388608,,,Left
+w-9-sp,topmostSubform[0].Page1[0].f1_9[0],p1_nombre_y_direccion_del_solicitante_opcional,1,Text,Nombre y dirección del solicitante (opcional),,,,8392704,,,Left
+w-9-sp,topmostSubform[0].Page1[0].f1_10[0],p1_7_anote_el_los_numero_s_de_cuenta_s_aqui_opcional,1,Text,7 Anote el (los) número(s) de cuenta(s) aquí (opcional),,,,8388608,,,Left
+w-9-sp,topmostSubform[0].Page1[0].SSN[0].f1_11[0],p1_topmostsubform_0_page1_0_ssn_0_f1_11_0,1,Text,,,,3,25165824,,,Left
+w-9-sp,topmostSubform[0].Page1[0].SSN[0].f1_12[0],p1_topmostsubform_0_page1_0_ssn_0_f1_12_0,1,Text,,,,2,25165824,,,Left
+w-9-sp,topmostSubform[0].Page1[0].SSN[0].f1_13[0],p1_topmostsubform_0_page1_0_ssn_0_f1_13_0,1,Text,,,,4,25165824,,,Left
+w-9-sp,topmostSubform[0].Page1[0].f1_14[0],p1_topmostsubform_0_page1_0_f1_14_0,1,Text,,,,2,25165824,,,Left
+w-9-sp,topmostSubform[0].Page1[0].f1_15[0],p1_topmostsubform_0_page1_0_f1_15_0,1,Text,,,,7,25165824,,,Left

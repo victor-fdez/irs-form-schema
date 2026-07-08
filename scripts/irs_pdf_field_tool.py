@@ -95,6 +95,9 @@ def revision_slug(pdf: Path, requested_revision: str = "auto") -> str:
     match = re.search(r"\bRev\.\s+([A-Za-z]+)\s+(\d{4})", title)
     if match:
         return f"rev-{match.group(2)}-{match.group(1).lower()}"
+    match = re.search(r"\(([A-Za-z]+)\s+(\d{4})\)", title)
+    if match:
+        return f"rev-{match.group(2)}-{match.group(1).lower()}"
     match = re.search(r"^(\d{4})\s+", title)
     if match:
         return match.group(1)

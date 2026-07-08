@@ -1,0 +1,7 @@
+friendly_name,original_field_name,page,field_type,caption,state_options,max_length,access
+p1_name_of_dependent_care_provider,topmostSubform[0].Page1[0].f1_1[0],1,Text,Name of dependent care provider,,,
+p1_address_number_street_and_apt_no,topmostSubform[0].Page1[0].f1_2[0],1,Text,"Address (number, street, and apt. no.)",,,
+p1_city_state_and_zip_code,topmostSubform[0].Page1[0].f1_3[0],1,Text,"City, state, and ZIP code",,,
+taxpayer_tin,topmostSubform[0].Page1[0].f1_4[0],1,Text,Provider’s taxpayer identification number,,11,
+p1_topmostsubform_0_page1_0_c1_1_0,topmostSubform[0].Page1[0].c1_1[0],1,Button,,1,,
+p1_name_street_address_apt_no_city_state_and_zip_code_of_person_requesting_information,topmostSubform[0].Page1[0].f1_5[0],1,Text,"Name, street address, apt. no., city, state, and ZIP code of person requesting information",,,

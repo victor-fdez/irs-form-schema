@@ -1,0 +1,14 @@
+form_id,field_name,friendly_name,page,field_type,caption,state_options,xfa_items,max_length,field_flags,access,presence,justification
+w-9s,topmostSubform[0].Page1[0].f1_01[0],p1_name_of_student_or_borrower,1,Text,Name of student or borrower (see instructions),,,,8388608,,,Left
+w-9s,topmostSubform[0].Page1[0].f1_02[0],taxpayer_tin,1,Text,Taxpayer identification number,,,11,0,,,Center
+w-9s,topmostSubform[0].Page1[0].f1_03[0],p1_address_number_and_street,1,Text,Address (number and street),,,,8388608,,,Left
+w-9s,topmostSubform[0].Page1[0].f1_04[0],p1_apt_or_suite_no,1,Text,Apt. or suite no.,,,,8388608,,,Center
+w-9s,topmostSubform[0].Page1[0].f1_05[0],p1_city,1,Text,City,,,,8388608,,,Left
+w-9s,topmostSubform[0].Page1[0].f1_06[0],p1_state,1,Text,State,,,2,0,,,Center
+w-9s,topmostSubform[0].Page1[0].f1_07[0],p1_zip_code,1,Text,ZIP code,,,10,0,,,Center
+w-9s,topmostSubform[0].Page1[0].f1_08[0],p1_topmostsubform_0_page1_0_f1_08_0,1,Text,/,,,2,0,,,Center
+w-9s,topmostSubform[0].Page1[0].f1_09[0],p1_topmostsubform_0_page1_0_f1_09_0,1,Text,/,,,2,0,,,Center
+w-9s,topmostSubform[0].Page1[0].f1_10[0],p1_topmostsubform_0_page1_0_f1_10_0,1,Text,,,,4,0,,,Center
+w-9s,topmostSubform[0].Page1[0].f1_11[0],p1_requesters_name_and_address,1,Text,Requester’s name and address,,,,8392704,,,Left
+w-9s,topmostSubform[0].Page1[0].f1_12[0],p1_tuition_account_number,1,Text,Tuition account number,,,,8388608,,,Center
+w-9s,topmostSubform[0].Page1[0].f1_13[0],p1_loan_account_number,1,Text,Loan account number,,,,8388608,,,Center
